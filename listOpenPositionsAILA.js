@@ -1,7 +1,25 @@
 //Script by Matteo Acclavio to load on a webpage containing an element with id=noticeBoardOpenPositionsAILA
-// the list of postition loaded in the repository https://macclavio.github.io/OpenPositionsAILA.xml
+// the list of postition loaded in the repository https://github.com/logica-aila/aila-logica.github.io
 
 console.log("Loading AILA Open Positions list")
+
+
+//Setting today date
+var day   =new Date().getDate()
+var month =new Date().getMonth()+1
+var year  =new Date().getFullYear()
+console.log("today is:" + day +"/"+ month +"/"+ year);
+
+// Parsing checking if the deadline is passed
+function checkDeadline(deadline){
+  var parts = deadline.split('/');
+  if(year <= parts[0] && month <= parts[1] &&  day <= parts[2]){
+    return true;
+  }else{
+    return false;
+  }
+}
+
 
 // Access archive file and call listing method
 var xmlhttp = new XMLHttpRequest();
@@ -10,7 +28,7 @@ xmlhttp.onreadystatechange = function() {
         listPosts(this);
     }
 };
-xmlhttp.open("GET", "https://macclavio.github.io/OpenPositionsAILA.xml", true);
+xmlhttp.open("GET", "https://github.com/logica-aila/aila-logica.github.io", true);
 xmlhttp.send();
 
 
@@ -22,13 +40,12 @@ function listPosts(xml) {
     var xmlDoc        = xml.responseXML;
     var post          = xmlDoc.getElementsByTagName("POST");
     var title         = xmlDoc.getElementsByTagName("title");
-    var description   = xmlDoc.getElementsByTagName("description");
+    var number         = xmlDoc.getElementsByTagName("number");
     var type          = xmlDoc.getElementsByTagName("type");
+    var description   = xmlDoc.getElementsByTagName("description");
+    var when          = xmlDoc.getElementsByTagName("when");
     var link          = xmlDoc.getElementsByTagName("link");
-    var date          = xmlDoc.getElementsByTagName("date");
-    var deadlineDay   = xmlDoc.getElementsByTagName("deadlineDay");
-    var deadlineMonth = xmlDoc.getElementsByTagName("deadlineMonth");
-    var deadlineYear  = xmlDoc.getElementsByTagName("deadlineYear");
+    var deadline      = xmlDoc.getElementsByTagName("deadline");
 
     //Get the element which will contain the posts
     var noticeBoard = document.getElementById("noticeBoardOpenPositionsAILA");
@@ -46,20 +63,14 @@ function listPosts(xml) {
     profList.setAttribute("id", "profList");
 
 
-    //Get date to avoid loading expired announcements
-    var day   =new Date().getDate()
-    var month =new Date().getMonth()+1
-    var year  =new Date().getFullYear()
-    console.log(day +"-"+ month +"-"+ year);
-
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
-      if(year <= deadlineYear[i].innerHTML && month <= deadlineMonth[i].innerHTML &&  day <= deadlineDay[i].innerHTML){
+      if(checkDeadline(deadline[i].textContent)){
           var postElement = document.createElement("li");
 
           if(link[i].textContent){
             postElement.innerHTML =
-              '<p> ('+ date[i].textContent +') <b>'+
+              '<p> ('+ when[i].textContent +') <b>'+
               title[i].textContent  +
               '</b><br> '
               +
@@ -92,6 +103,8 @@ function listPosts(xml) {
             profList.appendChild(postElement);
             areThereProf=true;
           }
+        }else{
+          console.log("the announcement"+title[i].textContent+"is expired")
         }
     }
 

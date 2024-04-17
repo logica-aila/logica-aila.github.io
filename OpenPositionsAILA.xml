@@ -1,79 +1,110 @@
 <postsArchive>
 
-Tipo di posizione (dottorato, postdoc, tenure)
-Numero di posizioni aperte
-Breve descrizione degli argomenti di ricerca
-Università/Istituto/Dipartimento 
-Link alla call
-Scadenza della call
-Esperienza o titoli richiesti
+
+<!-- 
+<POST>
+    <title>Title of the position</title>
+    <number>number of available positions</number>
+    <type>either phd for PhD students, post for postdocs, prof for tenure</type>
+    <description>description of the position</description>
+    <where>Hosting institution</where>
+    <when></when>
+    <link>link of the official position announcement of the form dd/mm/yyyy</link>
+    <deadline>deadline for application in the form "yyyy, mm, dd" </deadline>
+</POST> 
+-->
 
 
 <POST>
-    <title>testPHD1</title>
+    <title>Test PhD1</title>
+    <number>1</number>
     <type>phd</type>
-    <description>description phd1</description>
-    <link>matteoacclavio.com</link>
-    <date>2024-03-29</date>
-    <deadlineDay>31</deadlineDay>
-    <deadlineMonth>04</deadlineMonth>
-    <deadlineYear>2025</deadlineYear>
+    <description>description 1</description>
+    <where>AILA</where>
+    <when>21/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>01/05/2024</deadline>
 </POST>
 
 <POST>
-    <title>testPHD2</title>
+    <title>Test PhD2</title>
+    <number>2</number>
     <type>phd</type>
-    <description>description phd2</description>
-    <link></link>
-    <date>2024-03-29</date>
-    <deadlineDay>27</deadlineDay>
-    <deadlineMonth>03</deadlineMonth>
-    <deadlineYear>2024</deadlineYear>
+    <description>description 2</description>
+    <where>AILA</where>
+    <when>22/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>02/04/2024</deadline>
+</POST>
+
+<POST>
+    <title>Test PhD3</title>
+    <number>3</number>
+    <type>phd</type>
+    <description>description 3</description>
+    <where>AILA</where>
+    <when>23/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/05/2024</deadline>
 </POST>
 
 
 <POST>
-    <title>testpost</title>
+    <title>Test Post4</title>
+    <number>4</number>
     <type>post</type>
-    <description>description post</description>
-    <link></link>
-    <date>datepost</date>
-    <deadlineDay>31</deadlineDay>
-    <deadlineMonth>03</deadlineMonth>
-    <deadlineYear>2024</deadlineYear>
+    <description>description 4</description>
+    <where>AILA</where>
+    <when>24/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/05/2024</deadline>
 </POST>
 
+
 <POST>
-    <title>testpost2</title>
+    <title>Test Post5</title>
+    <number>5</number>
     <type>post</type>
-    <description>description post</description>
-    <link></link>
-    <date>datepost</date>
-    <deadlineDay>31</deadlineDay>
-    <deadlineMonth>02</deadlineMonth>
-    <deadlineYear>2024</deadlineYear>
+    <description>description 5</description>
+    <where>AILA</where>
+    <when>25/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/05/2024</deadline>
 </POST>
 
-<POST>
-    <title>testpost3</title>
-    <type>post</type>
-    <description>description post</description>
-    <link></link>
-    <date>datepost</date>
-    <deadlineDay>31</deadlineDay>
-    <deadlineMonth>06</deadlineMonth>
-    <deadlineYear>2024</deadlineYear>
-</POST>
 
 <POST>
-    <title>testProf1</title>
+    <title>Test Prof6</title>
+    <number>6</number>
     <type>prof</type>
-    <description>description prof1</description>
-    <link></link>
-    <date>dateprof1</date>
-    <deadlineDay>31</deadlineDay>
-    <deadlineMonth>03</deadlineMonth>
-    <deadlineYear>2024</deadlineYear>
+    <description>description 6</description>
+    <where>AILA</where>
+    <when>26/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/05/2024</deadline>
+</POST>
+
+<POST>
+    <title>Test Prof7</title>
+    <number>7</number>
+    <type>prof</type>
+    <description>description 7</description>
+    <where>AILA</where>
+    <when>27/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/02/2024</deadline>
+</POST>
+
+
+<POST>
+    <title>Test Prof8</title>
+    <number>8</number>
+    <type>prof</type>
+    <description>description 8</description>
+    <where>AILA</where>
+    <when>28/04/2024</when>
+    <link>https://www.ailalogica.it/</link>
+    <deadline>03/05/2024</deadline>
 </POST>
 
 </postsArchive>
