@@ -13,7 +13,7 @@ console.log("today is:" + day +"/"+ month +"/"+ year);
 // Parsing checking if the deadline is passed
 function checkDeadline(deadline){
   var parts = deadline.split('/');
-  if(year <= parts[0] && month <= parts[1] &&  day <= parts[2]){
+  if(year <= parts[2] && month <= parts[1] &&  day <= parts[0]){
     return true;
   }else{
     return false;
@@ -66,7 +66,7 @@ function listPosts(xml) {
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
       var parts = deadline[i].textContent.split('/');
-      console.log("the announcement "+title[i].textContent+" expires on "+parts[2]+"/"+parts[1]+"/"+parts[0]);
+      console.log("the announcement "+title[i].textContent+" expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]);
       if(checkDeadline(deadline[i].textContent)){
           var postElement = document.createElement("li");
 
