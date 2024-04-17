@@ -65,7 +65,7 @@ function listPosts(xml) {
 
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
-      var parts = deadline.split('/');
+      var parts = deadline[i].textContent.split('/');
       console.log("the announcement "+title[i].textContent+" expires on "+parts[2]+"/"+parts[1]+"/"+parts[0]);
       if(checkDeadline(deadline[i].textContent)){
           var postElement = document.createElement("li");
