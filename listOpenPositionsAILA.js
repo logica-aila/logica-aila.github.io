@@ -11,8 +11,8 @@ var year  =new Date().getFullYear()
 console.log("today is:" + day +"/"+ month +"/"+ year);
 
 // Parsing checking if the deadline is passed
-function checkDeadline(deadline){
-  var parts = deadline.split('/');
+function checkDeadline(expireDate){
+  var parts = expireDate.split('/');
   if(year <= parts[2] && month <= parts[1] &&  day <= parts[0]){
     return true;
   }else{
