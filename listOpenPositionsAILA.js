@@ -11,9 +11,8 @@ var year  =new Date().getFullYear()
 // Parsing checking if the deadline is passed
 function checkDeadline(expireDate){
   var parts = expireDate.split('/');
-  console.log("the announcement "+title[i].textContent+" expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]);
   if(year <= parts[2] && month <= parts[1] &&  day <= parts[0]){
-    console.log("it is not expired because today is:" + day +"/"+ month +"/"+ year);  
+    console.log("it is not expired because it expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]" and today is " + day +"/"+ month +"/"+ year);  
     return true;
   }else{
     console.log("it is expired because today is:" + day +"/"+ month +"/"+ year);  
@@ -66,46 +65,45 @@ function listPosts(xml) {
 
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
+      console.log("the announcement "+title[i].textContent);
       if(checkDeadline(deadline[i].textContent)){
-          var postElement = document.createElement("li");
-          if(link[i].textContent){
-            postElement.innerHTML =
-              '<p> ('+ when[i].textContent +') <b>'+
-              title[i].textContent  +
-              '</b><br> '
-              +
-              description[i].textContent
-              +
-              "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
-              +
-              '</p>'
-            ;
-          }else{
-            postElement.innerHTML =
-              '<p> ('+ date[i].textContent +') <b>'+ title[i].textContent +
-              '</b><br> '
-              +
-              description[i].textContent
-              +
-              '</p>'
-            ;
-          }
-
-          if(type[i].textContent=="phd"){
-            phdList.appendChild(postElement);
-            areTherePhd=true;
-          }
-          if(type[i].textContent=="post"){
-            postList.appendChild(postElement);
-            areTherePost=true;
-          }
-          if(type[i].textContent=="prof"){
-            profList.appendChild(postElement);
-            areThereProf=true;
-          }
+        var postElement = document.createElement("li");
+        if(link[i].textContent){
+          postElement.innerHTML =
+            '<p> ('+ when[i].textContent +') <b>'+
+            title[i].textContent  +
+            '</b><br> '
+            +
+            description[i].textContent
+            +
+            "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
+            +
+            '</p>'
+          ;
         }else{
-          console.log("the announcement"+title[i].textContent+"is expired")
+          postElement.innerHTML =
+            '<p> ('+ date[i].textContent +') <b>'+ title[i].textContent +
+            '</b><br> '
+            +
+            description[i].textContent
+            +
+            '</p>'
+          ;
         }
+        // appending valid announcements
+        if(type[i].textContent=="phd"){
+          phdList.appendChild(postElement);
+          areTherePhd=true;
+        }
+        if(type[i].textContent=="post"){
+          postList.appendChild(postElement);
+          areTherePost=true;
+        }
+        if(type[i].textContent=="prof"){
+          profList.appendChild(postElement);
+          areThereProf=true;
+        }
+      }
     }
 
     //If positions of a specific type are available, then the corresponding list is appended
