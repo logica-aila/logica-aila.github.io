@@ -28,7 +28,7 @@ xmlhttp.onreadystatechange = function() {
         listPosts(this);
     }
 };
-xmlhttp.open("GET", "https://github.com/logica-aila/aila-logica.github.io", true);
+xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
 xmlhttp.send();
 
 
