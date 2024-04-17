@@ -8,11 +8,12 @@ console.log("Loading AILA Open Positions list")
 var day   =new Date().getDate()
 var month =new Date().getMonth()+1
 var year  =new Date().getFullYear()
+
 // Parsing checking if the deadline is passed
 function checkDeadline(expireDate){
   var parts = expireDate.split('/');
   if(year <= parts[2] && month <= parts[1] &&  day <= parts[0]){
-    console.log("it is not expired because it expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]" and today is " + day +"/"+ month +"/"+ year);  
+    console.log("it is not expired because it expires on "+parts[0]+"/"+parts[1]+"/"+parts[2] +" and today is " + day +"/"+ month +"/"+ year);  
     return true;
   }else{
     console.log("it is expired because today is:" + day +"/"+ month +"/"+ year);  
