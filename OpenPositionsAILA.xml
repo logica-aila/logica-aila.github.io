@@ -1,0 +1,79 @@
+<postsArchive>
+
+Tipo di posizione (dottorato, postdoc, tenure)
+Numero di posizioni aperte
+Breve descrizione degli argomenti di ricerca
+Università/Istituto/Dipartimento 
+Link alla call
+Scadenza della call
+Esperienza o titoli richiesti
+
+
+<POST>
+    <title>testPHD1</title>
+    <type>phd</type>
+    <description>description phd1</description>
+    <link>matteoacclavio.com</link>
+    <date>2024-03-29</date>
+    <deadlineDay>31</deadlineDay>
+    <deadlineMonth>04</deadlineMonth>
+    <deadlineYear>2025</deadlineYear>
+</POST>
+
+<POST>
+    <title>testPHD2</title>
+    <type>phd</type>
+    <description>description phd2</description>
+    <link></link>
+    <date>2024-03-29</date>
+    <deadlineDay>27</deadlineDay>
+    <deadlineMonth>03</deadlineMonth>
+    <deadlineYear>2024</deadlineYear>
+</POST>
+
+
+<POST>
+    <title>testpost</title>
+    <type>post</type>
+    <description>description post</description>
+    <link></link>
+    <date>datepost</date>
+    <deadlineDay>31</deadlineDay>
+    <deadlineMonth>03</deadlineMonth>
+    <deadlineYear>2024</deadlineYear>
+</POST>
+
+<POST>
+    <title>testpost2</title>
+    <type>post</type>
+    <description>description post</description>
+    <link></link>
+    <date>datepost</date>
+    <deadlineDay>31</deadlineDay>
+    <deadlineMonth>02</deadlineMonth>
+    <deadlineYear>2024</deadlineYear>
+</POST>
+
+<POST>
+    <title>testpost3</title>
+    <type>post</type>
+    <description>description post</description>
+    <link></link>
+    <date>datepost</date>
+    <deadlineDay>31</deadlineDay>
+    <deadlineMonth>06</deadlineMonth>
+    <deadlineYear>2024</deadlineYear>
+</POST>
+
+<POST>
+    <title>testProf1</title>
+    <type>prof</type>
+    <description>description prof1</description>
+    <link></link>
+    <date>dateprof1</date>
+    <deadlineDay>31</deadlineDay>
+    <deadlineMonth>03</deadlineMonth>
+    <deadlineYear>2024</deadlineYear>
+</POST>
+
+</postsArchive>
