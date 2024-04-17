@@ -11,5 +11,5 @@ Whoever interested in promote the open positions collected in this archive can i
 
 It would suffice to include the following line of code in the page:
 ```html
-<div id="noticeBoardOpenPositionsAILA"></div><script src="https://macclavio.github.io/listOpenPositionsAILA.js"></script>
+<div id="noticeBoardOpenPositionsAILA"></div><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
 ```
