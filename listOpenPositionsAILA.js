@@ -8,14 +8,15 @@ console.log("Loading AILA Open Positions list")
 var day   =new Date().getDate()
 var month =new Date().getMonth()+1
 var year  =new Date().getFullYear()
-console.log("today is:" + day +"/"+ month +"/"+ year);
-
 // Parsing checking if the deadline is passed
 function checkDeadline(expireDate){
   var parts = expireDate.split('/');
+  console.log("the announcement "+title[i].textContent+" expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]);
   if(year <= parts[2] && month <= parts[1] &&  day <= parts[0]){
+    console.log("it is not expired because today is:" + day +"/"+ month +"/"+ year);  
     return true;
   }else{
+    console.log("it is expired because today is:" + day +"/"+ month +"/"+ year);  
     return false;
   }
 }
@@ -65,11 +66,8 @@ function listPosts(xml) {
 
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
-      var parts = deadline[i].textContent.split('/');
-      console.log("the announcement "+title[i].textContent+" expires on "+parts[0]+"/"+parts[1]+"/"+parts[2]);
       if(checkDeadline(deadline[i].textContent)){
           var postElement = document.createElement("li");
-
           if(link[i].textContent){
             postElement.innerHTML =
               '<p> ('+ when[i].textContent +') <b>'+
