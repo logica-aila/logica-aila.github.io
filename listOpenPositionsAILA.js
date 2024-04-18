@@ -52,8 +52,6 @@ function listPosts(xml) {
     miniJumbotron.innerHTML="Lista posizioni aperte in Logica curata dall'<a href='https://www.ailalogica.it/'>AILA</a>";
     noticeBoard.appendChild(miniJumbotron);
 
-    console.log("preso noticeBoard");
-
     var areTherePhd=false;
     var areTherePost=false;
     var areThereProf=false;
@@ -68,7 +66,6 @@ function listPosts(xml) {
 
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
-      console.log("the announcement "+title[i].textContent);
       if(checkDeadline(deadline[i].textContent)){
         var postElement = document.createElement("li");
         if(link[i].textContent){
@@ -137,18 +134,16 @@ function listPosts(xml) {
     }
 }
 
-
-
 // Function changing headers in English
-function AILAlistEN(){
-  console.log("updating the text to english");
-  miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
-  miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
-
-  phdH4=document.getElementById("AILAphdList");
-  phdH4.innerHTML="PhDs";
-  postH4=document.getElementById("AILApostList");
-  postH4.innerHTML="Postdocs";
-  profH4=document.getElementById("AILAprofList");
-  profH4.innerHTML="Tenure Track and Permanent Positions";
+function AILAlistEN() {
+  document.addEventListener("DOMContentLoaded", function() {
+    var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
+    miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
+    var phdH4=document.getElementById("AILAphdList");
+    phdH4.innerHTML="PhD Positions";
+    var postH4=document.getElementById("AILApostList");
+    postH4.innerHTML="Postdocs";
+    var profH4=document.getElementById("AILAprofList");
+    profH4.innerHTML="Tenure Track and Permanent Positions";
+  });
 }
