@@ -48,7 +48,7 @@ function listPosts(xml) {
     var noticeBoard = document.getElementById("noticeBoardOpenPositionsAILA");
 
     var miniJumbotron = document.createElement("p");
-    miniJumbotron.setAttribute=("id","miniJumbotronAILA")
+    miniJumbotron.setAttribute=("id","miniJumbotronAILA");
     miniJumbotron="Lista posizioni aperte in Logica curata dall'<a href='https://www.ailalogica.it/'>AILA</a>";
     noticeBoard.appendChild(miniJumbotron);
 
