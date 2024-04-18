@@ -24,6 +24,9 @@ var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         listPosts(this);
+        if(AILAlistEN){
+          AILAlistTextEN();
+        }
     }
 };
 xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
@@ -135,7 +138,7 @@ function listPosts(xml) {
 }
 
 // Function changing headers in English
-function AILAlistEN() {
+function AILAlistTextEN() {
   var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
   miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
   var phdH4=document.getElementById("AILAphdList");
