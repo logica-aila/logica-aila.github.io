@@ -136,14 +136,12 @@ function listPosts(xml) {
 
 // Function changing headers in English
 function AILAlistEN() {
-  document.addEventListener("DOMContentLoaded", function() {
-    var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
-    miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
-    var phdH4=document.getElementById("AILAphdList");
-    phdH4.innerHTML="PhD Positions";
-    var postH4=document.getElementById("AILApostList");
-    postH4.innerHTML="Postdocs";
-    var profH4=document.getElementById("AILAprofList");
-    profH4.innerHTML="Tenure Track and Permanent Positions";
-  });
+  var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
+  miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
+  var phdH4=document.getElementById("AILAphdList");
+  phdH4.innerHTML="PhD Positions";
+  var postH4=document.getElementById("AILApostList");
+  postH4.innerHTML="Postdocs";
+  var profH4=document.getElementById("AILAprofList");
+  profH4.innerHTML="Tenure Track and Permanent Positions";
 }
