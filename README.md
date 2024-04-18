@@ -1,4 +1,7 @@
-# Open positions collected by the AILA members
+# Archivio annunci posizioni accademiche in Logica
+
+
+## Come funziona
 
 Questo è un repository collaborativo curato dai membri dell'Associazione Italiana di Logica e sue Applicazioni (AILA, https://www.ailalogica.it/ ) per promuovere e diffondere posizioni accademiche su temi di Logica.
 Il repository contiene:
@@ -7,7 +10,7 @@ Il repository contiene:
 - questo readme file.
 
 
-## Come includere  la lista degli annunci sul proprio sito
+### Come includere  la lista degli annunci sul proprio sito
 Per includere la lista degli annunci sul proprio sito web, basta includere la seguente linea di codice nell'HTML nella posizione desiderata.
 
 ```html
@@ -15,7 +18,9 @@ Per includere la lista degli annunci sul proprio sito web, basta includere la se
 ```
 
 
---- ENGLISH VERSION ---
+___
+
+## ENGLISH VERSION
 
 This is a collaborative repository of the members of the Associazione Italiana di Logica e sue Applicazioni (AILA, https://www.ailalogica.it/ ) to promote accademic open positions in Logic.
 It contains:
@@ -23,7 +28,7 @@ It contains:
 - a javascript allowing to load and display the positions collected in the archive on a website. The list consists of three sublistings (PhD, postdocs, and tenure/permanent) and only show annuncements for which the deadline for application has not passed;
 - this readme file.
 
-## How to include the advertising list on your website
+### How to include the advertising list on your website
 To display the advertisement board, simply include the following line of code in your webpage's HTML at the desired location
 
 ```html
