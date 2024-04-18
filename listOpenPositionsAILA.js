@@ -9,19 +9,15 @@ var day   =new Date().getDate()
 var month =new Date().getMonth()+1
 var year  =new Date().getFullYear()
 
-// Parsing checking if the deadline is passed
+// Function checking if the deadline for an announcement has passed
 function checkDeadline(expireDate){
   var parts = expireDate.split('/');
-  console.log("expired year= " + (year <= parts[2]) + " expired month =" +(month <= parts[1]) + "expired day ="+(day <= parts[0]));
   if((year <= parts[2]) && (month <= parts[1]) &&  (month <= parts[1])){
-    console.log("it is not expired because it expires on "+parts[0]+"/"+parts[1]+"/"+parts[2] +" and today is " + day +"/"+ month +"/"+ year);  
     return true;
   }else{
-    console.log("it is expired because today is:" + day +"/"+ month +"/"+ year);  
     return false;
   }
 }
-
 
 // Access archive file and call listing method
 var xmlhttp = new XMLHttpRequest();
@@ -32,7 +28,6 @@ xmlhttp.onreadystatechange = function() {
 };
 xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
 xmlhttp.send();
-
 
 // Function listing postitions
 function listPosts(xml) {
@@ -51,6 +46,12 @@ function listPosts(xml) {
 
     //Get the element which will contain the posts
     var noticeBoard = document.getElementById("noticeBoardOpenPositionsAILA");
+
+    var miniJumbotron = document.createElement("p");
+    miniJumbotron.setAttribute=("id","miniJumbotronAILA")
+    miniJumbotron="Lista posizioni aperte in Logica curata dall'<a href='https://www.ailalogica.it/'>AILA</a>";
+
+
     console.log("preso noticeBoard");
 
     var areTherePhd=false;
@@ -79,6 +80,10 @@ function listPosts(xml) {
             description[i].textContent
             +
             "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
+            +
+            "<br>Deadline: "
+            +
+            deadline[i].textContent
             +
             '</p>'
           ;
@@ -111,20 +116,38 @@ function listPosts(xml) {
     //If positions of a specific type are available, then the corresponding list is appended
     if(areTherePhd){
       var phdH4 = document.createElement("h4");
+      phdH4.setAttribute("id","AILAphdList");
       phdH4.innerHTML = "Dottorato";
       noticeBoard.appendChild(phdH4);
       noticeBoard.appendChild(phdList);
     }
     if(areTherePost){
       var postH4 = document.createElement("h4");
+      postH4.setAttribute("id","AILApostList");
       postH4.innerHTML = "Postdoc";
       noticeBoard.appendChild(postH4);
       noticeBoard.appendChild(postList);
     }
     if(areThereProf){
       var profH4 = document.createElement("h4");
-      profH4.innerHTML = "Permanenti";
+      profH4.setAttribute("id","AILAprofList");
+      profH4.innerHTML = "Tenure-track e posizioni permanenti";
       noticeBoard.appendChild(profH4);
       noticeBoard.appendChild(profList);
     }
+}
+
+
+
+// Function changing headers in English
+function AILAlistEN (){
+  miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
+  miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
+
+  phdH4=document.getElementById("AILAphdList");
+  phdH4.innerHTML="PhDs";
+  postH4=document.getElementById("AILApostList");
+  postH4.innerHTML="Postdocs";
+  profH4=document.getElementById("AILAprofList");
+  profH4.innerHTML="Tenure Track and Permanent Positions";
 }
