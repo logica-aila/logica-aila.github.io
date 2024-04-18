@@ -16,7 +16,7 @@ var year  =new Date().getFullYear()
 // Function checking if the deadline for an announcement has passed
 function checkDeadline(expireDate){
   var parts = expireDate.split('/');
-  if((year <= parts[2]) && (month <= parts[1]) &&  (day <= parts[0])){
+  if((year < parts[2]) || (year == parts[2] && month < parts[1]) || (year == parts[2] && month == parts[1] && day <= parts[0])){
     return true;
   }else{
     return false;
