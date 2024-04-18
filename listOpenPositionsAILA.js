@@ -141,6 +141,7 @@ function listPosts(xml) {
 
 // Function changing headers in English
 function AILAlistEN(){
+  console.log("updating the text to english");
   miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
   miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
 
