@@ -4,6 +4,10 @@
 console.log("Loading AILA Open Positions list")
 
 
+//Setting text in IT
+var AILAlistEN = AILAlistEN || false;
+
+
 //Setting today date
 var day   =new Date().getDate()
 var month =new Date().getMonth()+1
