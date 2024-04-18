@@ -50,7 +50,7 @@ function listPosts(xml) {
     var miniJumbotron = document.createElement("p");
     miniJumbotron.setAttribute=("id","miniJumbotronAILA")
     miniJumbotron="Lista posizioni aperte in Logica curata dall'<a href='https://www.ailalogica.it/'>AILA</a>";
-
+    noticeBoard.appendChild(miniJumbotron);
 
     console.log("preso noticeBoard");
 
@@ -140,7 +140,7 @@ function listPosts(xml) {
 
 
 // Function changing headers in English
-function AILAlistEN (){
+function AILAlistEN(){
   miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
   miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
 
