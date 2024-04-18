@@ -31,7 +31,7 @@ It contains:
 To display the advertisement board, simply include the following line of code in your webpage's HTML at the desired location
 
 ```html
-<p id="noticeBoardOpenPositionsAILA" ></p><script src="https://logica-aila.github.io/listOpenPositionsAILA.js">AILAlistEN ()</script>
+<p id="noticeBoardOpenPositionsAILA" ></p><script>var AILAlistEN=true;</script><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
 ```
 
 Note: the headers will be displayed in English
