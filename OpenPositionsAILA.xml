@@ -8,103 +8,100 @@
     <type>either phd for PhD students, post for postdocs, prof for tenure</type>
     <description>description of the position</description>
     <where>Hosting institution</where>
-    <when></when>
+    <when>Date of publishing the annuncment in the form "dd/mm/yyyy" </when>
     <link>link of the official position announcement of the form dd/mm/yyyy</link>
-    <deadline>deadline for application in the form "yyyy, mm, dd" </deadline>
+    <deadline>deadline for application in the form "dd/mm/yyyy" </deadline>
 </POST> 
 -->
 
 
 <POST>
-    <title>Test PhD1</title>
+    <title>PhD in differential equations for deep learning</title>
     <number>1</number>
     <type>phd</type>
-    <description>description 1</description>
-    <where>AILA</where>
-    <when>21/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>01/05/2024</deadline>
+    <description>
+        We have a doctoral funding available that focuses on the use of differential equation theory (analog computation models) for learning in deep learning. Applications to a physics problem (particle accelerator control). Multidisciplinary context: mathematics, computer science, and applications to physics.
+        Keywords: theoretical computer science, complexity, algorithmics, deep learning, applications to physics.
+        All applications are welcome, especially those accompanied by a CV, transcripts, and references. Contact <a href="https://www.lri.fr/~jcohen/pages/phd-students.html">Johanne Cohen</a> for information.
+    </description>
+    <where>University of Paris-Saclay, LISN Laboratory</where>
+    <when>01/05/2024</when>
+    <link></link>
+    <deadline>13/05/2024</deadline>
 </POST>
 
 <POST>
-    <title>Test PhD2</title>
-    <number>2</number>
+    <title>PhD in Type Theory</title>
+    <number>1</number>
     <type>phd</type>
-    <description>description 2</description>
-    <where>AILA</where>
-    <when>22/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>02/04/2024</deadline>
+    <description>
+        The Gallinette team, hosted by Nantes University, advertises a 3-year PhD position in type theory.
+        The position is financed by the ERC (European Research Council) project Fresco, coordinated by Assia Mahboubi. 
+        Any candidate with a Master degree in mathematics or computer science and a scientific interest in the topic of the PhD project is encouraged to apply.
+        The application should contain a motivation letter, an academic CV, and the contact information of two academic references (name, e-mail, and connection to the applicant). 
+        Expected start date: 1 October 2024 (negotiable)
+    </description>
+    <where>Nantes University, Gallinette team</where>
+    <when>01/05/2024</when>
+    <link>https://recrutement.inria.fr/public/classic/fr/offres/2024-07624</link>
+    <deadline>25/06/2024</deadline>
 </POST>
 
+
 <POST>
-    <title>Test PhD3</title>
-    <number>3</number>
+    <title>PhD in Theoretical Computer Science or Operational Research</title>
+    <number>1</number>
     <type>phd</type>
-    <description>description 3</description>
+    <description>
+        We seek candidates for a PhD position at  LIP6-Sorbonne University. 
+        The position targets applicants with background and interest in at least one of the following domains: Theoretical Computer Science (e.g., approximation, randomized, online algorithms), or Operations Research (e.g., Game Theory, Scheduling). 
+        Candidate profile:
+        
+        * Bachelor's and Master's Degrees in Computer Science or a related discipline such as Mathematics or Operations Research.
+        
+        * Strong background and interest in theoretical/mathematical topics, as documented by coursework or previous research (ideally).
+        
+        * Proficiency in English.
+
+        Candidates must consult the web site of the École Doctoral EDITE that provides the funding, in particular the section "Candidatures", which also describes the application procedure and the selection process. All applicants should contact the supervisor, by email, well prior to the deadline, by submitting a CV, transcripts of all courses, and names and contact information of two references. This step is particularly important for international applicants.
+    </description>
     <where>AILA</where>
-    <when>23/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/05/2024</deadline>
+    <when>01/05/2024</when>
+    <link>https://myedb.edite-de-paris.fr/PRD_View/8676/</link>
+    <deadline>15/05/2024</deadline>
 </POST>
 
 
 <POST>
-    <title>Test Post4</title>
-    <number>4</number>
+    <title>Postdoc in algorithmic and quantitative study of data structures</title>
+    <number>1</number>
     <type>post</type>
-    <description>description 4</description>
-    <where>AILA</where>
-    <when>24/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/05/2024</deadline>
+    <description>
+        Our project consists of an algorithmic and quantitative study of classical data structures from computer science under the prism of combinatorics. In the last decade many improvements have been achieved in order to characterize the modeling of these data structures as directed acyclic graphs (or DAGs) combinatorially, paving the way for the analysis of objects induced by compaction procedures: in particular, we will focus on Boolean circuits and decision diagrams. The project thus focuses on considering new types of objects in the combinatorial setting. For some of them, even a proper specification is missing and it could be a major challenge to find one. A further challenge is to extend the generating function algebra to these new settings.
+        To apply, please, send CV + scientific project (in relation with the project) + any letters of recommendation + possible labs affiliations to Antoine GENITRINI.
+    </description>
+    <where>GREYC (Normandy University, Caen), LIP6 (Sorbonne University, Paris) or LIPN (Sorbonne Paris Nord University, Villetaneuse)</where>
+    <when>01/05/2024</when>
+    <link>https://www-apr.lip6.fr/~genitrini/doc_ens/pandag.pdf</link>
+    <deadline>15/06/2024</deadline>
 </POST>
 
 
 <POST>
-    <title>Test Post5</title>
-    <number>5</number>
-    <type>post</type>
-    <description>description 5</description>
-    <where>AILA</where>
-    <when>25/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/05/2024</deadline>
+    <title>PhD in Programming Languages</title>
+    <number>1</number>
+    <type>phd</type>
+    <description>
+        This position is tied to the ERC Consolidator Project “Choreographies for Distributed Systems: Reasoning, Expressivity, and Development (CHORDS)”. The project aims at introducing new language abstractions, formal models, and software tools for radically changing how we can reason about and develop realistic distributed systems. To this end, the project will establish a collaborative team that will investigate novel theoretical foundations and a formally-verified toolchain for the new paradigm of choreographic programming. The successful candidate will work with the project’s principal investigator (Prof. Fabrizio Montesi), who is a pioneer of the paradigm, and join one of the most prominent international research groups in the topic (the ACP section).
+        The ideal candidate has an MSc in Computer Science and experience in at least one of the following areas (acquired, for example, by following courses or through work on an MSc thesis): Theory of programming languages, Compilers. Concurrent and distributed systems, Logical methods in computer science, Interactive theorem provers.
+    </description>
+    <where>University of Southern Denmark (Odense, DK)</where>
+    <when>01/05/2024</when>
+    <link>https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1572/</link>
+    <deadline>15/05/2024</deadline>
 </POST>
 
 
-<POST>
-    <title>Test Prof6</title>
-    <number>6</number>
-    <type>prof</type>
-    <description>description 6</description>
-    <where>AILA</where>
-    <when>26/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/05/2024</deadline>
-</POST>
 
-<POST>
-    <title>Test Prof7</title>
-    <number>7</number>
-    <type>prof</type>
-    <description>description 7</description>
-    <where>AILA</where>
-    <when>27/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/02/2024</deadline>
-</POST>
-
-
-<POST>
-    <title>Test Prof8</title>
-    <number>8</number>
-    <type>prof</type>
-    <description>description 8</description>
-    <where>AILA</where>
-    <when>28/04/2024</when>
-    <link>https://www.ailalogica.it/</link>
-    <deadline>03/05/2024</deadline>
-</POST>
 
 </postsArchive>
