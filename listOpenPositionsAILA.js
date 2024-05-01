@@ -93,7 +93,7 @@ function listPosts(xml) {
           ;
         }else{
           postElement.innerHTML =
-            '<p> ('+ date[i].textContent +') <b>'+ title[i].textContent +
+            '<p> ('+ when[i].textContent +') <b>'+ title[i].textContent +
             '</b><br> '
             +
             description[i].textContent
