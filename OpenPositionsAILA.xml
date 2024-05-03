@@ -9,11 +9,68 @@
     <description>description of the position</description>
     <where>Hosting institution</where>
     <when>Date of publishing the annuncment in the form "dd/mm/yyyy" </when>
-    <link>link of the official position announcement of the form dd/mm/yyyy</link>
+    <link>link of the official position announcement</link>
     <deadline>deadline for application in the form "dd/mm/yyyy" </deadline>
 </POST> 
 -->
 
+
+
+<POST>
+    <title>PhD in Proof Theory</title>
+    <number>1</number>
+    <type>phd</type>
+    <description>
+    The Department of Informatics at the University of Sussex (Brighton, UK) invites applications for highly motivated candidates interested in PhD positions in Logic (Proof Theory).
+    The ideal candidate has a Master's degree in Mathematics, Computer Science or Philosophy with experience in Logic (preferably in Proof Theory). 
+    The position has a duration of 3.5 years ideally starting in September 2024.
+    The hired candidate will be part of the Foundations of Software Systems group ( https://www.sussex.ac.uk/foss/ ), a dynamic group in Theoretical Computer Science which is currently growing and has recently hired various young researchers.
+
+    The project aims at studying the problem of proof equivalence and its applications.
+    The problem of proof equivalence, which recently came to the forefront after the discovery of the 24th Hilbert problem, deals with deciding whether two logical arguments should be considered as the same proof, providing theoretical foundations for notions of program equivalences.
+    To this end, the project will investigate novel notions of proof equivalence in various logical systems through the lens of proof theory. Emphasis will be given to the study of proof systems allowing canonical representations of proofs (e.g., Hughes' combinatorial proofs and Girard's proof nets). Moreover, the project plans to establish connections between proof equivalence and games, both in the sense of dialogical games (Lorenz and Lorenzen) and game semantics (Abramsky, Highland and Ong).
+    According to the interest of the candidate, applications to interoperability and usability of automated theorem prover and proof assistant, or applications to the theory of programming languages may be investigated.
+
+
+    Applicants interested in the study of proof theory are encouraged to get in touch with Dr. Matteo Acclavio for additional information and informal inquiries.
+    </description>
+    <where>University of Sussex</where>
+    <when>03/05/2024</when>
+    <link>https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1735-PhD-Informatics-Scholarship-in-Proof-Theory </link>
+    <deadline>06/06/2024</deadline>
+</POST> 
+
+<POST>
+    <title>PhD in linear programming</title>
+    <number>1</number>
+    <type>phd</type>
+    <description>
+        We seek PhD candidates to a joint program between LIP6-Sorbonne University and the School of Computer Science, University of Sydney. The topic of the thesis will be focused on linear programming techniques in learning-augmented algorithms. 
+
+        Candidate profile:
+
+        * Bachelor's and Master's Degrees in Computer Science or a related discipline such as Mathematics of Operations Research. Specifically, candidates must hold a degree equivalent to a Bologna-complying Master degree with research experience.
+
+        * Strong background and interest in the theoretical analysis of algorithms, documented by coursewor, and ideally past exposure to research on topics such as approximation/online/randomized algorithms, or related algorithmic area.
+
+        * Proficiency in English.
+
+
+        Candidates should submit, via email to Spyros Angelopoulos (spyros.angelopoulos@lip6.fr) and Julian Mestre (julian.mestre@sydney.edu.au), the following:
+
+        - CV
+
+        - Transcripts of grades for all acquired degrees (for French candidates, this refers to Licence, M1, and M2 degrees. For international candidates, this refers to Bachelor and Master degrees).
+        
+        - A motivation letter.
+
+        - Letters of recommendation by at least one academic reference, preferably the supervisor of the Master's studies. The letters should be sent directly by the references, and they must be received by the deadline.
+    </description>
+    <where>LIP6-Sorbonne University (FR) and University of Sydney (AU)</where>
+    <when>01/05/2024</when>
+    <link></link>
+    <deadline>21/05/2024</deadline>
+</POST>
 
 <POST>
     <title>PhD in differential equations for deep learning</title>
@@ -47,7 +104,6 @@
     <deadline>25/06/2024</deadline>
 </POST>
 
-
 <POST>
     <title>PhD in Theoretical Computer Science or Operational Research</title>
     <number>1</number>
@@ -71,7 +127,6 @@
     <deadline>15/05/2024</deadline>
 </POST>
 
-
 <POST>
     <title>Postdoc in algorithmic and quantitative study of data structures</title>
     <number>1</number>
@@ -86,7 +141,6 @@
     <deadline>15/06/2024</deadline>
 </POST>
 
-
 <POST>
     <title>PhD in Programming Languages</title>
     <number>1</number>
@@ -100,8 +154,5 @@
     <link>https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1572/</link>
     <deadline>15/05/2024</deadline>
 </POST>
-
-
-
 
 </postsArchive>
