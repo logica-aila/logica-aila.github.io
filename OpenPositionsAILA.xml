@@ -16,6 +16,74 @@
 
 
 <POST>
+    <title>Chaire de Professeur Junior (France)</title>
+    <number>1</number>
+    <type>prof</type>
+    <description>
+        Un poste de "Chaire de Professeur Junior" va être ouvert pour la rentrée prochaine au Laboratoire de Mathématiques Blaise Pascal de l'Université Clermont Auvergne (avec comité de sélection en septembre, et prise de fonction en novembre). Il sera publié prochainement sur Galaxie, et les candidatures seront ouvertes jusqu'à fin juin. Le profil recherché est en "Algèbre et théorie des représentations", mais toutes les candidatures dans des domaines connexes pouvant s'intégrer au laboratoire (notamment topologie, théorie des nombres, théorie des groupes, analyse harmonique non commutative) seront étudiées avec attention.
+        
+        [Consultare la scadenza sul sito!]
+    </description>
+    <where>Université Clermont Auvergne</where>
+    <when>22/05/2024</when>
+    <link>https://lmbp.uca.fr/emplois/index.php</link>
+    <deadline>30/06/2024</deadline>
+</POST> 
+
+
+<POST>
+    <title>PhD program in Mathematics at the University of Torino, Italy</title>
+    <number>7</number>
+    <type>phd</type>
+    <description>
+        There are 7 positions with fellowship and one of them is specifically reserved for candidates with a foreign master degree. It is possible to have joint supervision with a partner university
+    </description>
+    <where>Università di Torino</where>
+    <when>22/05/2024</when>
+    <link>https://www.dottorato.unito.it/do/home.pl/View?doc=Bando_XL_ciclo.html</link>
+    <deadline>20/06/2024</deadline>
+</POST> 
+
+<POST>
+    <title>PhD program in Mathematics and Physics at the University of Udine</title>
+    <number>1</number>
+    <type>phd</type>
+    <description>
+        In 2024 we are especially interested in students willing to work in set theory (potential supervisor Vincenzo Dimonte) and connections with dynamical systems (potential supervisor Giovanni Panti). Udine’s Mathematical Logic group consists also of one post-doc researcher and two active PhD students (two others will obtain their degrees in 2024). You can contact any of us if you have further queries about possible scientific projects. For administrative information please contact dottorato.rice@uniud.it
+    </description>
+    <where>Università di Udine</where>
+    <when>21/05/2024</when>
+    <link>https://www.dmif.uniud.it/dottorato/smf/</link>
+    <deadline>20/06/2024</deadline>
+</POST> 
+
+<POST>
+    <title>PhD programs at the IMT School for Advanced Studies Lucca (Italy)</title>
+    <number>1</number>
+    <type>phd</type>
+    <description>
+        Highly motivated candidates interested in doing philosophical research in a multidisciplinary environment are invited to apply online for scholarships offered by the Cognitive, Computational and Social Neurosciences (CCSN) and Economics, Analytics and Decision Sciences (EADS) doctoral programs at the IMT School for Advanced Studies Lucca (www.imtlucca.it).
+        The successful candidates will join the MInD (Models, Inferences, and Decisions) group within the MoMiLab research unit. The ideal candidate will have a strong background in philosophy of science, epistemology, or logic and be interested in multidisciplinary work at the interface between philosophy, cognitive (neuro)science, and (behavioral) economics. Relevant research areas include general and formal philosophy of science, formal and social epistemology, philosophy of the cognitive and behavioral sciences, and theoretical and empirical models of expert judgment and reasoning (see the MInD page for more detail).
+        The positions consist of a 3-year studentship of 16.243 euros per year (tax free, social security withholding), free housing in the School’s accessible campus in the historical town of Lucca, free access to the canteen, library and other facilities on campus, additional funds for research and international mobility.
+    </description>
+    <where>Università di Milano</where>
+    <when>26/05/2024</when>
+    <link>https://www.imtlucca.it/en/phd/information-for-students</link>
+    <deadline>21/06/2024</deadline>
+</POST> 
+
+<POST>
+    <title>Assegno di Ricerca (Università di Milano)</title>
+    <number>1</number>
+    <type>post</type>
+    <description>Assegno di Ricerca di 18 mesi (supervisor Pr. Ghilardi)</description>
+    <where>Università di Milano</where>
+    <when>26/05/2024</when>
+    <link>https://www.unimi.it/it/ricerca/fare-ricerca-da-noi/assegni-di-ricerca/bandi-assegni-di-ricerca</link>
+    <deadline>26/06/2024</deadline>
+</POST> 
+
+<POST>
     <title>PhD in Proof Theory</title>
     <number>1</number>
     <type>phd</type>
@@ -27,7 +95,7 @@
 
     The project aims at studying the problem of proof equivalence and its applications.
     The problem of proof equivalence, which recently came to the forefront after the discovery of the 24th Hilbert problem, deals with deciding whether two logical arguments should be considered as the same proof, providing theoretical foundations for notions of program equivalences.
-    To this end, the project will investigate novel notions of proof equivalence in various logical systems through the lens of proof theory. Emphasis will be given to the study of proof systems allowing canonical representations of proofs (e.g., Hughes' combinatorial proofs and Girard's proof nets). Moreover, the project plans to establish connections between proof equivalence and games, both in the sense of dialogical games (Lorenz and Lorenzen) and game semantics (Abramsky, Highland and Ong).
+    To this end, the project will investigate novel notions of proof equivalence in various logical systems through the lens of proof theory. Emphasis will be given to the study of proof systems allowing canonical representations of proofs (e.g., Hughes' combinatorial proofs and Girard's proof nets). Moreover, the project plans to establish connections between proof equivalence and games, both in the sense of dialogical games (Lorenz and Lorenzen) and game semantics (Abramsky, Hyland and Ong).
     According to the interest of the candidate, applications to interoperability and usability of automated theorem prover and proof assistant, or applications to the theory of programming languages may be investigated.
 
 
