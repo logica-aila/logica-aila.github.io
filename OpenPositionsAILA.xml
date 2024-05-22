@@ -16,7 +16,7 @@
 
 
 <POST>
-    <title>Chaire de Professeur Junior (France)</title>
+    <title>Chaire de Professeur Junior (Clermont-Ferrand, France)</title>
     <number>1</number>
     <type>prof</type>
     <description>
@@ -32,7 +32,7 @@
 
 
 <POST>
-    <title>PhD program in Mathematics at the University of Torino, Italy</title>
+    <title>PhD program in Mathematics (Torino, Italy)</title>
     <number>7</number>
     <type>phd</type>
     <description>
@@ -45,7 +45,7 @@
 </POST> 
 
 <POST>
-    <title>PhD program in Mathematics and Physics at the University of Udine</title>
+    <title>PhD program in Mathematics and Physics (Udine, Italy)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -58,7 +58,7 @@
 </POST> 
 
 <POST>
-    <title>PhD programs at the IMT School for Advanced Studies Lucca (Italy)</title>
+    <title>PhD programs at the IMT School for Advanced Studies Lucca (Lucca, Italy)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -73,7 +73,7 @@
 </POST> 
 
 <POST>
-    <title>Assegno di Ricerca (Università di Milano)</title>
+    <title>Assegno di Ricerca (Milano, Italy)</title>
     <number>1</number>
     <type>post</type>
     <description>Assegno di Ricerca di 18 mesi (supervisor Pr. Ghilardi)</description>
@@ -84,7 +84,7 @@
 </POST> 
 
 <POST>
-    <title>PhD in Proof Theory</title>
+    <title>PhD in Proof Theory (Brighton, UK)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -108,7 +108,7 @@
 </POST> 
 
 <POST>
-    <title>PhD in linear programming</title>
+    <title>PhD in linear programming (Paris, France)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -140,7 +140,7 @@
 </POST>
 
 <POST>
-    <title>PhD in differential equations for deep learning</title>
+    <title>PhD in differential equations for deep learning (Paris, France)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -155,7 +155,7 @@
 </POST>
 
 <POST>
-    <title>PhD in Type Theory</title>
+    <title>PhD in Type Theory (Nantes, France)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -172,7 +172,7 @@
 </POST>
 
 <POST>
-    <title>PhD in Theoretical Computer Science or Operational Research</title>
+    <title>PhD in Theoretical Computer Science or Operational Research (Paris, France)</title>
     <number>1</number>
     <type>phd</type>
     <description>
@@ -195,7 +195,7 @@
 </POST>
 
 <POST>
-    <title>Postdoc in algorithmic and quantitative study of data structures</title>
+    <title>Postdoc in algorithmic and quantitative study of data structures (Caen, France)</title>
     <number>1</number>
     <type>post</type>
     <description>
@@ -209,7 +209,7 @@
 </POST>
 
 <POST>
-    <title>PhD in Programming Languages</title>
+    <title>PhD in Programming Languages (Odense, Denmark)</title>
     <number>1</number>
     <type>phd</type>
     <description>
