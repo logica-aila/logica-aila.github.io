@@ -37,6 +37,3 @@ To display the advertisement board, simply include the following line of code in
 Note: the headers will be displayed in English
 
 ___
-
-<p id="noticeBoardOpenPositionsAILA" ></p><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
-
