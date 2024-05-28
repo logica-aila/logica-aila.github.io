@@ -74,7 +74,7 @@ function listPosts(xml) {
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
       if(checkDeadline(deadline[i].textContent)){
-        var postElement = document.createElement("detail");
+        var postElement = document.createElement("details");
         var postSummary = document.createElement("summary");
         var postDescription = document.createElement("p");
 
