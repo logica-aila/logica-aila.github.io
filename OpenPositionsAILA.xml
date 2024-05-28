@@ -1,7 +1,7 @@
 <postsArchive>
 
-
 <!-- 
+    Stucure of an entry
 <POST>
     <title>Title of the position</title>
     <number>number of available positions</number>
@@ -12,6 +12,9 @@
     <link>link of the official position announcement</link>
     <deadline>deadline for application in the form "dd/mm/yyyy" </deadline>
 </POST> 
+
+    Do not remove previous posts.
+    Add new post right below here.
 -->
 
 
