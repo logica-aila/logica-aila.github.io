@@ -78,10 +78,16 @@ function listPosts(xml) {
         var postSummary = document.createElement("summary");
         var postDescription = document.createElement("p");
 
-        postSummary.innerHTML = '('+ when[i].textContent +') <b>'+ title[i].textContent +
+        postSummary.innerHTML = '<b>'+ title[i].textContent +
         '</b>';
         if(link[i].textContent){
           postDescription.innerHTML =
+            '('
+            + 
+            when[i].textContent 
+            +
+            ')'
+            +
             description[i].textContent
             +
             "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
