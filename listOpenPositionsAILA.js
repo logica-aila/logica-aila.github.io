@@ -71,24 +71,6 @@ function listPosts(xml) {
     profList.setAttribute("id", "profList");
 
 
-
-<details>
-                        <summary><h3>Liceo Matematico</h3></summary>
-                        <ul>
-                            <li>2019/2020 <a href="http://www.liceocannizzaro.it/il-pof/1420-liceo-matematico.html" target="_blank">Liceo Cannizzaro</a>-<a href="http://www.matfis.uniroma3.it/" target="_blanc">Università Roma Tre</a>:
-                                <p class="EN">Computing... with water</p>
-                                <p class="FR">Calculer... avec de l'eau</p>
-                                <p class="IT">Calcolare... con l'acqua</p>
-                            </li>
-                            <li>2018/2019 <a href="http://www.liceocannizzaro.it/il-pof/1420-liceo-matematico.html" target="_blank">Liceo Cannizzaro</a>-<a href="http://www.matfis.uniroma3.it/" target="_blanc">Università Roma Tre</a>:
-                                <p class="EN">Plane tassellation and wallpaper groups. Platonic solids, football balls and Euler characteristic</p>
-                                <p class="FR">Pavages et groupes de symétrie du plan. Solides platoniques, ballons de football et caractéristique d'Euler</p>
-                                <p class="IT">Tassellazioni e gruppi di simmetria del piano. Solidi platonici, palloni da calcio e caratteristica di Eulero</p>
-                            </li>
-                        </ul>
-                    </details>
-
-
     //If not expired, create the element containing the post
     for (i = 0; i< post.length; i++) {
       if(checkDeadline(deadline[i].textContent)){
