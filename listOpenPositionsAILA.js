@@ -106,6 +106,7 @@ function listPosts(xml) {
           ;
         }
         //
+        postSummary.setAttribute("style","cursor:help");
         postElement.appendChild(postSummary);
         postElement.appendChild(postDescription);
         
