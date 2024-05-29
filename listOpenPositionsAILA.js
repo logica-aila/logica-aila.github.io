@@ -78,7 +78,7 @@ function listPosts(xml) {
         var postSummary = document.createElement("summary");
         var postDescription = document.createElement("p");
 
-        postSummary.innerHTML = '<b>'+ title[i].textContent +
+        postSummary.innerHTML = '<b>' + number[i].textContent +' '+ title[i].textContent +
         '</b>';
         if(link[i].textContent){
           postDescription.innerHTML =
