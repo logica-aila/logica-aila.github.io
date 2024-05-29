@@ -19,6 +19,39 @@
 
 
 <POST>
+    <title>Three 2-year postdocs (Milano, IT)</title>
+    <number>3</number>
+    <type>post </type>
+    <description>
+        The Logic Uncertainty Computation and Information (LUCI) Lab at the University of Milan is seeking applications for   
+        Three 2-year postdoctoral positions 
+        funded by the Italian Ministry of University and Research (MUR) under the FIS1 Advanced Grant Reasoning with Data (ReDa)  led by Hykel Hosni 
+
+        Deadline for application: 4 June 2024 
+        Expected starting date:  1 September 2024 (negotiable)
+
+        The appointments. Appointments will be made in either of the work packages below. Please specify in your application which WP would suit you best. Each candidate can put in one application only.  There are no teaching duties attached to the posts, and proficiency in Italian is not required. 
+        Work package 1:  Non-monotonic formalisation of data-driven inference.
+        The appointee is expected to work on the identification of suitable constraints for consequence relations capable of expressing salient patterns of data-driven inference. (The background and general idea are discussed informally here https://projects.illc.uva.nl/lgc/seminar/2023/03/lira-session-hykel-hosni/) . 
+        Candidates for this work package must have a strong background in logic, acquired through a Master and a PhD in any of the relevant paths, including and possibly combining, Mathematics, Philosophy, and Computer Science. Familiarity with the preferential approach to nonmonotonic reasoning is a plus. Applicants are also expected to be conversant with elementary probability and statistics. 
+        Work package 2:  Logic for the methodology of data-intensive and AI-driven science
+        The appointee is expected to identify suitable roles for logical methods in the construction of a scientific methodology capable of encompassing AI-driven science. Logicians have traditionally followed Tarski in restricting the applicability of logic to the methodology of deductive sciences. In the age of data-intensive and machine-learning-driven science, this is overly restrictive both for logic and for science. To overcome this, the appointee will pin down patterns reasoning from any area of data-intensive and AI-driven science (preferably biology) and work towards their logical formalisation.
+        Candidates for this work package must have a strong background in logic or philosophy of science, preferably both, acquired through a Master and a PhD in any of the relevant subject. Familiarity with the methodological and epistemological questions revolving around “big data” are a definite plus. Applicants are also expected to be conversant with the current literature on AI for scientific research, including explainable AI. Familiarity with the history of logic from Boole onwards is desirable.
+        Work package 3:  The construction of probabilistic evidence in rare cancers
+        The successful candidate is expected to work on methodologically rigorous approaches to the personalisation of probability in clinical decision-making about rare cancers. The key goal is to put forward principled ways to come up with patient-specific, meaningful, probabilities from data about “the average patient” arising in clinical studies. Since this work package will contribute to developing decision-theoretic tools to be used at the patient’s bedside, the appointed researcher will be based at the Istituto Nazionale Tumori in Milan, and will work in close collaboration with the Biostatistics for Clinical Research, Sarcomas, and Head-and-Neck Cancers Units.   
+        Applicants for this WP must have a strong background in medical statistics, clinical epidemiology and probability applied to those fields, acquired through any relevant postgraduate degree. Familiarity with medical decision making and the construction of probabilistic and statistical evidence is a definite plus.
+
+        How to apply
+        Please read carefully the official call for the posts, which is available in Italian and in English at 
+        https://www.unimi.it/it/ricerca/ricerca-lastatale/fare-ricerca-da-noi/assegni-e-borse/bandi-assegni-di-ricerca/bando-di-tipo-b-prof-hosni-id-6648
+    </description>
+    <where>UNIMI</where>
+    <when> 29/05/2024 </when>
+    <link>https://luci.unimi.it/open-positions/</link>
+    <deadline>2024-06-04</deadline>
+</POST>
+
+<POST>
     <title>Chaire de Professeur Junior (Clermont-Ferrand, France)</title>
     <number>1</number>
     <type>prof</type>
