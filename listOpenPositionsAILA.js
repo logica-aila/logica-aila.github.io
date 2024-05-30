@@ -78,7 +78,7 @@ function listPosts(xml) {
         var postSummary = document.createElement("summary");
         var postDescription = document.createElement("p");
 
-        postSummary.innerHTML = '<b>' + number[i].textContent +' '+ title[i].textContent +'</b>';
+        postSummary.innerHTML = '<b>' + title[i].textContent +'</b>';
         if(link[i].textContent){
           postDescription.innerHTML =
             '('
@@ -89,7 +89,7 @@ function listPosts(xml) {
             +
             description[i].textContent
             +
-            "<br>Numero posizioni: "+number[i]+
+            "<br>Numero posizioni: "+ number[i].textContent +
             +
             "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
             +
