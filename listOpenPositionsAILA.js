@@ -15,8 +15,8 @@ var year  =new Date().getFullYear()
 
 // Function checking if the deadline for an announcement has passed
 function checkDeadline(expireDate){
-  var parts = expireDate.split('/');
-  if((year < parts[2]) || (year == parts[2] && month < parts[1]) || (year == parts[2] && month == parts[1] && day <= parts[0])){
+  var parts = expireDate.trim().split('-');
+  if((year < parts[0]) || (year == parts[0] && month < parts[1]) || (year == parts[0] && month == parts[1] && day <= parts[2])){
     return true;
   }else{
     return false;
@@ -89,6 +89,8 @@ function listPosts(xml) {
             +
             description[i].textContent
             +
+            "<br>Numero posizioni: "+number[i]+
+            +
             "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
             +
             "<br>Deadline: "
@@ -98,6 +100,8 @@ function listPosts(xml) {
         }else{
           postDescription.innerHTML = 
             description[i].textContent
+            +
+            "<br>Numero posizioni: "+number[i]+
             +
             "<br>Deadline: "
             +
@@ -110,15 +114,15 @@ function listPosts(xml) {
         postElement.appendChild(postDescription);
         
         // appending valid announcements
-        if(type[i].textContent=="phd"){
+        if(type[i].textContent.trim()=="PhD"){
           phdList.appendChild(postElement);
           areTherePhd=true;
         }
-        if(type[i].textContent=="post"){
+        if(type[i].textContent.trim()=="Postdoc"){
           postList.appendChild(postElement);
           areTherePost=true;
         }
-        if(type[i].textContent=="prof"){
+        if(type[i].textContent.trim()=="Tenure/Permanent"){
           profList.appendChild(postElement);
           areThereProf=true;
         }

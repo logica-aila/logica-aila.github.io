@@ -5,12 +5,12 @@
 <POST>
     <title>Title of the position</title>
     <number>number of available positions</number>
-    <type>either phd for PhD students, post for postdocs, prof for tenure</type>
+    <type>either "PhD",  "Postdoc", or "Tenure/Permanent"</type>
     <description>description of the position</description>
     <where>Hosting institution</where>
-    <when>Date of publishing the annuncment in the form "dd/mm/yyyy" </when>
+    <when>Date of publishing the annuncment in the form "yyyy-mm-dd" (as provided by Contact Form 7)</when>
     <link>link of the official position announcement</link>
-    <deadline>deadline for application in the form "dd/mm/yyyy" </deadline>
+    <deadline>deadline for application in the form "yyyy-mm-dd" (as provided by Contact Form 7)</deadline>
 </POST> 
 
     Do not remove previous posts.
@@ -21,21 +21,21 @@
 <POST>
     <title>Fully funded PhD position on Axiomatic Definitions (Aix-en-Provence/Marseille, Francia)</title>
     <number>1</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
         Fully funded PhD position in "Axiomatic definitions. Criteria of adequacy and typologies of definitions in axiomatic theories of 19th and 20th centuries". Centre Gilles Gaston Granger, University of Aix-Marseille. Part of the ANR project AXDEF led by Paola Cantù.
     </description>
     <where>Centre Gilles Gaston Granger, University of Aix-Marseille</where>
-    <when>29/05/2024</when>
+    <when> 2024-05-29 </when>
     <link>https://emploi.cnrs.fr/Offres/Doctorant/UMR7304-PAOCAN-001/Default.aspx?lang=EN</link>
-    <deadline>03/06/2024</deadline>
+    <deadline> 2024-06-03 </deadline>
 </POST>
 
 
 <POST>
     <title>Three 2-year postdocs (Milano, IT)</title>
     <number>3</number>
-    <type>post</type>
+    <type> Postdoc </type>
     <description>
         The Logic Uncertainty Computation and Information (LUCI) Lab at the University of Milan is seeking applications for   
         Three 2-year postdoctoral positions 
@@ -60,83 +60,83 @@
         https://www.unimi.it/it/ricerca/ricerca-lastatale/fare-ricerca-da-noi/assegni-e-borse/bandi-assegni-di-ricerca/bando-di-tipo-b-prof-hosni-id-6648
     </description>
     <where>UNIMI</where>
-    <when>29/05/2024</when>
+    <when> 2024-05-29 </when>
     <link>https://luci.unimi.it/open-positions/</link>
-    <deadline>04/06/2024</deadline>
+    <deadline> 2024-06-04 </deadline>
 </POST>
 
 <POST>
     <title>Chaire de Professeur Junior (Clermont-Ferrand, France)</title>
     <number>1</number>
-    <type>prof</type>
+    <type> Tenure/Permanent </type>
     <description>
         Un poste de "Chaire de Professeur Junior" va être ouvert pour la rentrée prochaine au Laboratoire de Mathématiques Blaise Pascal de l'Université Clermont Auvergne (avec comité de sélection en septembre, et prise de fonction en novembre). Il sera publié prochainement sur Galaxie, et les candidatures seront ouvertes jusqu'à fin juin. Le profil recherché est en "Algèbre et théorie des représentations", mais toutes les candidatures dans des domaines connexes pouvant s'intégrer au laboratoire (notamment topologie, théorie des nombres, théorie des groupes, analyse harmonique non commutative) seront étudiées avec attention.
         
         [Consultare la scadenza sul sito!]
     </description>
     <where>Université Clermont Auvergne</where>
-    <when>22/05/2024</when>
+    <when> 2024-05-22 </when>
     <link>https://lmbp.uca.fr/emplois/index.php</link>
-    <deadline>30/06/2024</deadline>
+    <deadline> 2024-06-30 </deadline>
 </POST> 
 
 
 <POST>
     <title>PhD program in Mathematics (Torino, Italy)</title>
     <number>7</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
         There are 7 positions with fellowship and one of them is specifically reserved for candidates with a foreign master degree. It is possible to have joint supervision with a partner university
     </description>
     <where>Università di Torino</where>
-    <when>22/05/2024</when>
+    <when> 2024-05-22 </when>
     <link>https://www.dottorato.unito.it/do/home.pl/View?doc=Bando_XL_ciclo.html</link>
-    <deadline>20/06/2024</deadline>
+    <deadline> 2024-06-20 </deadline>
 </POST> 
 
 <POST>
     <title>PhD program in Mathematics and Physics (Udine, Italy)</title>
     <number>1</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
         In 2024 we are especially interested in students willing to work in set theory (potential supervisor Vincenzo Dimonte) and connections with dynamical systems (potential supervisor Giovanni Panti). Udine’s Mathematical Logic group consists also of one post-doc researcher and two active PhD students (two others will obtain their degrees in 2024). You can contact any of us if you have further queries about possible scientific projects. For administrative information please contact dottorato.rice@uniud.it
     </description>
     <where>Università di Udine</where>
-    <when>21/05/2024</when>
+    <when> 2024-05-22 </when>
     <link>https://www.dmif.uniud.it/dottorato/smf/</link>
-    <deadline>20/06/2024</deadline>
+    <deadline> 2024-06-20 </deadline>
 </POST> 
 
 <POST>
     <title>PhD programs (Lucca, Italy)</title>
     <number>1</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
         Highly motivated candidates interested in doing philosophical research in a multidisciplinary environment are invited to apply online for scholarships offered by the Cognitive, Computational and Social Neurosciences (CCSN) and Economics, Analytics and Decision Sciences (EADS) doctoral programs at the IMT School for Advanced Studies Lucca (www.imtlucca.it).
         The successful candidates will join the MInD (Models, Inferences, and Decisions) group within the MoMiLab research unit. The ideal candidate will have a strong background in philosophy of science, epistemology, or logic and be interested in multidisciplinary work at the interface between philosophy, cognitive (neuro)science, and (behavioral) economics. Relevant research areas include general and formal philosophy of science, formal and social epistemology, philosophy of the cognitive and behavioral sciences, and theoretical and empirical models of expert judgment and reasoning (see the MInD page for more detail).
         The positions consist of a 3-year studentship of 16.243 euros per year (tax free, social security withholding), free housing in the School’s accessible campus in the historical town of Lucca, free access to the canteen, library and other facilities on campus, additional funds for research and international mobility.
     </description>
     <where>IMT School for Advanced Studies Lucca</where>
-    <when>26/05/2024</when>
+    <when> 2024-05-26 </when>
     <link>https://www.imtlucca.it/en/phd/information-for-students</link>
-    <deadline>21/06/2024</deadline>
+    <deadline> 2024-06-20 </deadline>
 </POST> 
 
 <POST>
     <title>Assegno di Ricerca (Milano, Italy)</title>
     <number>1</number>
-    <type>post</type>
+    <type> Postdoc </type>
     <description>Assegno di Ricerca di 18 mesi (supervisor Pr. Ghilardi)</description>
     <where>Università di Milano</where>
-    <when>26/05/2024</when>
+    <when> 2024-05-26 </when>
     <link>https://www.unimi.it/it/ricerca/fare-ricerca-da-noi/assegni-di-ricerca/bandi-assegni-di-ricerca</link>
-    <deadline>26/06/2024</deadline>
+    <deadline> 2024-06-26 </deadline>
 </POST> 
 
 <POST>
     <title>PhD in Proof Theory (Brighton, UK)</title>
     <number>1</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
     The Department of Informatics at the University of Sussex (Brighton, UK) invites applications for highly motivated candidates interested in PhD positions in Logic (Proof Theory).
     The ideal candidate has a Master's degree in Mathematics, Computer Science or Philosophy with experience in Logic (preferably in Proof Theory). 
@@ -152,62 +152,15 @@
     Applicants interested in the study of proof theory are encouraged to get in touch with Dr. Matteo Acclavio for additional information and informal inquiries.
     </description>
     <where>University of Sussex</where>
-    <when>03/05/2024</when>
+    <when> 2024-05-03 </when>
     <link>https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1735-PhD-Informatics-Scholarship-in-Proof-Theory </link>
-    <deadline>06/06/2024</deadline>
+    <deadline> 2024-06-06 </deadline>
 </POST> 
-
-<POST>
-    <title>PhD in linear programming (Paris, France)</title>
-    <number>1</number>
-    <type>phd</type>
-    <description>
-        We seek PhD candidates to a joint program between LIP6-Sorbonne University and the School of Computer Science, University of Sydney. The topic of the thesis will be focused on linear programming techniques in learning-augmented algorithms. 
-
-        Candidate profile:
-
-        * Bachelor's and Master's Degrees in Computer Science or a related discipline such as Mathematics of Operations Research. Specifically, candidates must hold a degree equivalent to a Bologna-complying Master degree with research experience.
-
-        * Strong background and interest in the theoretical analysis of algorithms, documented by coursewor, and ideally past exposure to research on topics such as approximation/online/randomized algorithms, or related algorithmic area.
-
-        * Proficiency in English.
-
-
-        Candidates should submit, via email to Spyros Angelopoulos (spyros.angelopoulos@lip6.fr) and Julian Mestre (julian.mestre@sydney.edu.au), the following:
-
-        - CV
-
-        - Transcripts of grades for all acquired degrees (for French candidates, this refers to Licence, M1, and M2 degrees. For international candidates, this refers to Bachelor and Master degrees).
-        
-        - A motivation letter.
-
-        - Letters of recommendation by at least one academic reference, preferably the supervisor of the Master's studies. The letters should be sent directly by the references, and they must be received by the deadline.
-    </description>
-    <where>LIP6-Sorbonne University (FR) and University of Sydney (AU)</where>
-    <when>01/05/2024</when>
-    <link></link>
-    <deadline>21/05/2024</deadline>
-</POST>
-
-<POST>
-    <title>PhD in differential equations for deep learning (Paris, France)</title>
-    <number>1</number>
-    <type>phd</type>
-    <description>
-        We have a doctoral funding available that focuses on the use of differential equation theory (analog computation models) for learning in deep learning. Applications to a physics problem (particle accelerator control). Multidisciplinary context: mathematics, computer science, and applications to physics.
-        Keywords: theoretical computer science, complexity, algorithmics, deep learning, applications to physics.
-        All applications are welcome, especially those accompanied by a CV, transcripts, and references. Contact <a href="https://www.lri.fr/~jcohen/pages/phd-students.html">Johanne Cohen</a> for information.
-    </description>
-    <where>University of Paris-Saclay, LISN Laboratory</where>
-    <when>01/05/2024</when>
-    <link></link>
-    <deadline>13/05/2024</deadline>
-</POST>
 
 <POST>
     <title>PhD in Type Theory (Nantes, France)</title>
     <number>1</number>
-    <type>phd</type>
+    <type> PhD </type>
     <description>
         The Gallinette team, hosted by Nantes University, advertises a 3-year PhD position in type theory.
         The position is financed by the ERC (European Research Council) project Fresco, coordinated by Assia Mahboubi. 
@@ -216,60 +169,10 @@
         Expected start date: 1 October 2024 (negotiable)
     </description>
     <where>Nantes University, Gallinette team</where>
-    <when>01/05/2024</when>
+    <when> 2024-05-01 </when>
     <link>https://recrutement.inria.fr/public/classic/fr/offres/2024-07624</link>
-    <deadline>25/06/2024</deadline>
+    <deadline> 2024-06-25 </deadline>
 </POST>
 
-<POST>
-    <title>PhD in Theoretical Computer Science or Operational Research (Paris, France)</title>
-    <number>1</number>
-    <type>phd</type>
-    <description>
-        We seek candidates for a PhD position at  LIP6-Sorbonne University. 
-        The position targets applicants with background and interest in at least one of the following domains: Theoretical Computer Science (e.g., approximation, randomized, online algorithms), or Operations Research (e.g., Game Theory, Scheduling). 
-        Candidate profile:
-        
-        * Bachelor's and Master's Degrees in Computer Science or a related discipline such as Mathematics or Operations Research.
-        
-        * Strong background and interest in theoretical/mathematical topics, as documented by coursework or previous research (ideally).
-        
-        * Proficiency in English.
-
-        Candidates must consult the web site of the École Doctoral EDITE that provides the funding, in particular the section "Candidatures", which also describes the application procedure and the selection process. All applicants should contact the supervisor, by email, well prior to the deadline, by submitting a CV, transcripts of all courses, and names and contact information of two references. This step is particularly important for international applicants.
-    </description>
-    <where>AILA</where>
-    <when>01/05/2024</when>
-    <link>https://myedb.edite-de-paris.fr/PRD_View/8676/</link>
-    <deadline>15/05/2024</deadline>
-</POST>
-
-<POST>
-    <title>Postdoc in algorithmic and quantitative study of data structures (Caen, France)</title>
-    <number>1</number>
-    <type>post</type>
-    <description>
-        Our project consists of an algorithmic and quantitative study of classical data structures from computer science under the prism of combinatorics. In the last decade many improvements have been achieved in order to characterize the modeling of these data structures as directed acyclic graphs (or DAGs) combinatorially, paving the way for the analysis of objects induced by compaction procedures: in particular, we will focus on Boolean circuits and decision diagrams. The project thus focuses on considering new types of objects in the combinatorial setting. For some of them, even a proper specification is missing and it could be a major challenge to find one. A further challenge is to extend the generating function algebra to these new settings.
-        To apply, please, send CV + scientific project (in relation with the project) + any letters of recommendation + possible labs affiliations to Antoine GENITRINI.
-    </description>
-    <where>GREYC (Normandy University, Caen), LIP6 (Sorbonne University, Paris) or LIPN (Sorbonne Paris Nord University, Villetaneuse)</where>
-    <when>01/05/2024</when>
-    <link>https://www-apr.lip6.fr/~genitrini/doc_ens/pandag.pdf</link>
-    <deadline>15/06/2024</deadline>
-</POST>
-
-<POST>
-    <title>PhD in Programming Languages (Odense, Denmark)</title>
-    <number>1</number>
-    <type>phd</type>
-    <description>
-        This position is tied to the ERC Consolidator Project “Choreographies for Distributed Systems: Reasoning, Expressivity, and Development (CHORDS)”. The project aims at introducing new language abstractions, formal models, and software tools for radically changing how we can reason about and develop realistic distributed systems. To this end, the project will establish a collaborative team that will investigate novel theoretical foundations and a formally-verified toolchain for the new paradigm of choreographic programming. The successful candidate will work with the project’s principal investigator (Prof. Fabrizio Montesi), who is a pioneer of the paradigm, and join one of the most prominent international research groups in the topic (the ACP section).
-        The ideal candidate has an MSc in Computer Science and experience in at least one of the following areas (acquired, for example, by following courses or through work on an MSc thesis): Theory of programming languages, Compilers. Concurrent and distributed systems, Logical methods in computer science, Interactive theorem provers.
-    </description>
-    <where>University of Southern Denmark (Odense, DK)</where>
-    <when>01/05/2024</when>
-    <link>https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1572/</link>
-    <deadline>15/05/2024</deadline>
-</POST>
 
 </postsArchive>
