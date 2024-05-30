@@ -89,7 +89,7 @@ function listPosts(xml) {
             +
             description[i].textContent
             +
-            "<br>Numero posizioni: "+ number[i].textContent +
+            "<br>Numero posizioni: " + number[i].textContent +
             +
             "<br>Informazioni disponibili al seguente <a href='" +link[i].textContent + "' target='_blank'>link</a>"
             +
@@ -101,7 +101,7 @@ function listPosts(xml) {
           postDescription.innerHTML = 
             description[i].textContent
             +
-            "<br>Numero posizioni: "+number[i]+
+            "<br>Numero posizioni: "+ number[i].textContent +
             +
             "<br>Deadline: "
             +
