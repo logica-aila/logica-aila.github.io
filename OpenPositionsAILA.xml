@@ -18,6 +18,61 @@
 -->
 
 
+
+
+
+<POST>
+    <title>PhD program in Mathematics and applications (Genoa)</title>
+    <number>8</number>
+    <type>PhD</type>
+    <description>
+        There are 8 positions available. Candidates interested in Mathematical logic and willing to collaborate with the Genoa logic group are welcome to apply.
+    </description>
+    <where>Department of mathematics, University of Genoa</where>
+    <when>2024-06-10</when>
+    <link>https://unige.it/en/students/phd-programmes</link>
+    <deadline>2024-07-09</deadline>
+</POST>
+
+
+<POST>
+    <title>Postdoctoral Research Fellow at the University of Surrey (Guildford, UK)</title>
+    <number>number of available positions</number>
+    <type>either "PhD",  "Postdoc", or "Tenure/Permanent"</type>
+    <description>
+        We are seeking to recruit a full-time postdoctoral researcher to work on one or more of the areas below:
+
+        - emerging hardware architectures (weak memory, RDMA, persistent memory, CXL),
+        - verification with interactive and automated reasoning tools,
+        - proofs of safety / security properties,
+        - programming languages,
+        - concurrent and/or distributed algorithms and related topics.
+
+        The position is funded by the UK Engineering and Physical Science Research Council (EPSRC) project:
+        - Safe and secure COncurrent programming for adVancEd aRchiTectures (COVERT) (https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X015149/1)
+
+        The successful applicant will work in a multidisciplinary team, as well as a large team of academic (Imperial, Kent, Sheffield, MPI-SWS, Cornell, IMDEA, etc) and industrial collaborators (Arm, NVIDIA, Galois), researchers and PhD students.
+
+        Applicants must have or be close to obtaining a PhD in Computer Science.
+
+        *** Further Details ***
+        Post Type: Full time 
+        Salary: £36,024 to £39,347 per annum
+        Closing Date: 28th June 2024
+
+        *** Enquiries ***
+        For informal enquiries and further information please contact Brijesh Dongol at b.dongol@surrey.ac.uk or Gregory Chockler at g.chockler@surrey.ac.uk.
+    </description>
+    <where>University of Surrey</where>
+    <when> 2024-06-03</when>
+    <link>https://jobs.surrey.ac.uk/Vacancy.aspx?id=14085</link>
+    <deadline> 2024-06-28 </deadline>
+</POST>
+
+
+
+
+
 <POST>
     <title>Fully funded PhD position on Axiomatic Definitions (Aix-en-Provence/Marseille, Francia)</title>
     <number>1</number>
