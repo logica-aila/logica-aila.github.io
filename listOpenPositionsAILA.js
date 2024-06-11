@@ -160,7 +160,7 @@ function listPosts(xml) {
 // Function changing headers in English
 function AILAlistTextEN() {
   var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
-  miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
+  miniJumbotronAILA.innerHTML="List of open positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
   var phdH4=document.getElementById("AILAphdList");
   phdH4.innerHTML="PhD Positions";
   var postH4=document.getElementById("AILApostList");
