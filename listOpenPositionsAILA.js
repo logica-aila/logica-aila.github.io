@@ -53,7 +53,7 @@ function listPosts(xml) {
     var xmlDoc        = xml.responseXML;
     var post          = xmlDoc.getElementsByTagName("POST");
     var title         = xmlDoc.getElementsByTagName("title");
-    var number         = xmlDoc.getElementsByTagName("number");
+    var number        = xmlDoc.getElementsByTagName("number");
     var type          = xmlDoc.getElementsByTagName("type");
     var description   = xmlDoc.getElementsByTagName("description");
     var when          = xmlDoc.getElementsByTagName("when");
