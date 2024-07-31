@@ -16,7 +16,18 @@
     Do not remove previous posts.
     Add new post right below here.
 -->
+<POST>
+    <title>PostDoc position in Logic in Milano</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>One postdoctoral position in Logic, focused on applications of logic to combinatorics, is available at the University of Milano, funded by the PRIN2022: Logical Methods in Combinatorics</description>
+    <where>Department of Mathematics, University of Milano</where>
+    <when>2024-07-31</when>
+    <link>https://sites.google.com/uniroma1.it/lomec/?erca=1&authuser=5</link>
+    <deadline>2024-09-03</deadline>
+</POST> 
 
+    
 <POST>
     <title>2-year PostDoc at Slovak Academy of Sciences</title>
     <number>1</number>
@@ -60,7 +71,7 @@
 <POST>
     <title>Postdoctoral Research Fellow at the University of Surrey (Guildford, UK)</title>
     <number>number of available positions</number>
-    <type>either "PhD",  "Postdoc", or "Tenure/Permanent"</type>
+    <type>Postdoc</type>
     <description>
         We are seeking to recruit a full-time postdoctoral researcher to work on one or more of the areas below:
 
