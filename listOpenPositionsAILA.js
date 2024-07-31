@@ -26,15 +26,24 @@ function checkDeadline(expireDate){
 // Access archive file and call listing method
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-        listPosts(this);
-        if(AILAlistEN){
-          AILAlistTextEN();
+    if (this.readyState == 4) {
+        if (this.status == 200) {
+            var xmlDoc = this.responseXML;
+            if (xmlDoc) {
+                listPosts(xmlDoc);
+                if (AILAlistEN) {
+                    AILAlistTextEN();
+                }
+            } else {
+                console.error("Failed to parse XML.");
+            }
+        } else {
+            console.error("Failed to load XML file. Status: " + this.status);
         }
     }
 };
 xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
-xmlhttp.send() ;
+xmlhttp.send();
 
 // Function listing postitions
 function listPosts(xml) {
