@@ -46,11 +46,10 @@ xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true)
 xmlhttp.send();
 
 // Function listing postitions
-function listPosts(xml) {
+function listPosts(xmlDoc) {
     var i;
 
     //Get informations to be posted
-    var xmlDoc        = xml.responseXML;
     var post          = xmlDoc.getElementsByTagName("POST");
     var title         = xmlDoc.getElementsByTagName("title");
     var number        = xmlDoc.getElementsByTagName("number");
