@@ -16,6 +16,9 @@
     Do not remove previous posts.
     Add new post right below here.
 -->
+
+
+
 <POST>
     <title>PostDoc position in Logic in Milano</title>
     <number>1</number>
@@ -27,11 +30,10 @@
     <deadline>2024-09-03</deadline>
 </POST> 
 
-    
 <POST>
     <title>2-year PostDoc at Slovak Academy of Sciences</title>
     <number>1</number>
-    <type>PostDoc</type>
+    <type>Postdoc</type>
     <description>
         L'Istituto di Filosofia dell'Accademia Slovacca delle Scienze ha aperto una posizione per ricercatrice/ricercatore postdoc con durata di due anni, rinnovabile in base alla valutazione del lavoro svolto. Il bando si trova al link qui sotto (la descrizione in inglese è in fondo alla pagina). La logica è tra le aree di maggiore rilievo per la selezione.
     </description>
@@ -70,7 +72,7 @@
 
 <POST>
     <title>Postdoctoral Research Fellow at the University of Surrey (Guildford, UK)</title>
-    <number>number of available positions</number>
+    <number>1</number>
     <type>Postdoc</type>
     <description>
         We are seeking to recruit a full-time postdoctoral researcher to work on one or more of the areas below:
@@ -101,10 +103,6 @@
     <link>https://jobs.surrey.ac.uk/Vacancy.aspx?id=14085</link>
     <deadline> 2024-06-28 </deadline>
 </POST>
-
-
-
-
 
 <POST>
     <title>Fully funded PhD position on Axiomatic Definitions (Aix-en-Provence/Marseille, Francia)</title>

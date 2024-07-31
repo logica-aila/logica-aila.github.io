@@ -1,7 +1,7 @@
 //Script by Matteo Acclavio to load on a webpage containing an element with id=noticeBoardOpenPositionsAILA
 // the list of postition loaded in the repository https://github.com/logica-aila/aila-logica.github.io
 
-console.log("Loading AILA Open Positions list")
+console.log("Loading AILA Open Positions list");
 
 
 //Setting text in IT
@@ -9,9 +9,9 @@ var AILAlistEN = AILAlistEN || false;
 
 
 //Setting today date
-var day   =new Date().getDate()
-var month =new Date().getMonth()+1
-var year  =new Date().getFullYear()
+var day   =new Date().getDate();
+var month =new Date().getMonth()+1;
+var year  =new Date().getFullYear();
 
 // Function checking if the deadline for an announcement has passed
 function checkDeadline(expireDate){
@@ -34,7 +34,7 @@ xmlhttp.onreadystatechange = function() {
     }
 };
 xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
-xmlhttp.send();
+xmlhttp.send() ;
 
 // Function listing postitions
 function listPosts(xml) {
@@ -59,9 +59,9 @@ function listPosts(xml) {
     miniJumbotron.innerHTML="Lista posizioni aperte in Logica curata dall'<a href='https://www.ailalogica.it/'>AILA</a>";
     noticeBoard.appendChild(miniJumbotron);
 
-    var areTherePhd=false;
-    var areTherePost=false;
-    var areThereProf=false;
+    var areTherePhd=false ;
+    var areTherePost=false ;
+    var areThereProf=false ;
 
     var phdList = document.createElement("ul");
     phdList.setAttribute("id", "phdList");
@@ -162,9 +162,9 @@ function AILAlistTextEN() {
   var miniJumbotronAILA = document.getElementById("miniJumbotronAILA");
   miniJumbotronAILA.innerHTML="List of oper positions in Logic edited by <a href='https://www.ailalogica.it/'>AILA</a>";
   var phdH4=document.getElementById("AILAphdList");
-  phdH4.innerHTML="PhD Positions";
+  if (phdH4) phdH4.innerHTML = "PhD Positions";
   var postH4=document.getElementById("AILApostList");
-  postH4.innerHTML="Postdocs";
+  if (postH4) postH4.innerHTML = "Postdocs";
   var profH4=document.getElementById("AILAprofList");
-  profH4.innerHTML="Tenure Track and Permanent Positions";
+  if (profH4) profH4.innerHTML = "Tenure Track and Permanent Positions";
 }
