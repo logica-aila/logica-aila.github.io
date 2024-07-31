@@ -42,7 +42,7 @@ xmlhttp.onreadystatechange = function() {
         }
     }
 };
-xmlhttp.open("GET", "OpenPositionsAILA.xml", true);
+xmlhttp.open("GET", "https://logica-aila.github.io/OpenPositionsAILA.xml", true);
 xmlhttp.send();
 
 // Function listing postitions
