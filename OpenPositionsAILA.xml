@@ -18,6 +18,41 @@
 -->
 
 
+
+
+
+
+
+<POST>
+    <title>PostDoc position in Bordeaux (FR)</title>
+    <number>1</number>
+    <type> Postdoc </type>
+    <description>
+        The LaBRI research lab based at the University of Bordeaux is currently seeking highly 
+        motivated candidates with excellent academic records and experience in knowledge 
+        representation and reasoning (esp. ontologies, description logics, inconsistency
+        and uncertainty handling), database theory, data quality and/or logic in CS to join 
+        the Ratio team (ratio.labri.fr/) and take part in the INTENDED AI Chair (intended.labri.fr). 
+
+        We currently have an opening for a 13-month postdoc position.The recruited person will 
+        collaborate with myself and other project members on foundational research related to the 
+        project's overall theme of developing principled methods for handling imperfect 
+        (inconsistent, inconsistent, and/or uncertain) data, by exploiting declarative knowledge 
+        and reasoning.  Generally speaking, this will involve the definition of formal frameworks 
+        for repairing and querying imperfect data, the study of the computational complexity of the 
+        associated reasoning tasks, and the development of reasoning algorithms (note that 
+        implementation of developed algorithms is not required, but could be undertaken if desired).
+
+        The precise research topics can be adapted to some degree to take into account the specific 
+        background and interests of the hired researcher, so brilliant candidates with an interest for 
+        the overall project topic should not hesitate to apply!
+    </description>
+    <where>Aix-Marseille Université</where>
+    <when>2024-09-11</when>
+    <link> http://intended.labri.fr/documents/postdoc-intended-2024.pdf </link>
+    <deadline>2024-09-25</deadline>
+</POST>
+
 <POST>
     <title>PostDoc position in Marseille (FR)</title>
     <number>2</number>
