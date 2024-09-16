@@ -19,6 +19,47 @@
 
 
 
+
+
+<POST>
+    <title>Lectureship positions</title>
+    <number>>1</number>
+    <type>Tenure/Permanent</type>
+    <description>
+        The Department of Computer Science at the University of Bath has vacancies for academic appointments across its four main research groups:
+
+        https://www.bath.ac.uk/campaigns/join-the-department-of-computer-science/
+
+        This includes the Mathematical Foundations of Computation group, where we are particularly looking for individuals with research interests in areas around formal mathematics and computer assisted reasoning, including but not limited to:
+
+        - proof assistants (e.g. Agda, Coq, Isabelle, Lean)
+
+        - certified mathematical libraries
+
+        - logical systems, proof theory and type theory
+
+        - certified programming and program synthesis
+
+        - automated reasoning
+
+        - applications of AI and machine learning to formal mathematics
+
+        The official job announcement and online application form can be found here:
+
+        For any questions about the post or the recruitment process, please contact James Davenport (masjhd AT bath.ac.uk) or Thomas Powell (trjp20 AT bath.ac.uk).
+
+        Interviews are planned to take place on the 25, 26, 27 November and 2 and 3 December 2024.
+    </description>
+    <where>University of Bath (UK)</where>
+    <when>2024-09-16</when>
+    <link>https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=ED11636</link>
+    <deadline>2024-10-15</deadline>
+</POST>
+
+
+
+
+
 <POST>
     <title>Post-Doctoral Position in Non-Deterministic Semantics and Algebraization of Logics (Campinas, Brazil)</title>
     <number>1</number>
