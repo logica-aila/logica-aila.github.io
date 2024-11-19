@@ -18,7 +18,6 @@
 -->
 
 <POST>
-<<<<<<< HEAD
     <title>18-Month Full-Time Postdoc Position at LAMA</title>
     <number>1</number>
     <type>Postdoc</type>
@@ -50,7 +49,6 @@
     <link>https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68580</link>
     <deadline>2024-11-30</deadline>
 </POST>
-=======
     <title>Postdoctoral fellow/junior scientist in proof theory and algebraic logic (Prague, Czech Republic)</title>
     <number>1</number>
     <type>Postdoc</type>
@@ -76,7 +74,6 @@ More information on the project may be found on the INTERACT webpage (http://www
     <link>https://www.cs.cas.cz/job-offer/PhD-candidate-algebraic-logic-Fussner-2024/en</link>
     <deadline>2025-02-15</deadline>
 </POST> 
->>>>>>> 492bb083dffd02e34c89932bf59c6fff8e253a99
 
 <POST>
     <title>PhD in Theoretical Computer Science (Birmingham, UK)</title>
