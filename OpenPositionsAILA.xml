@@ -17,7 +17,38 @@
     Add new post right below here.
 -->
 
+<POST>
+    <title>18-Month Full-Time Postdoc Position at LAMA</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The LAMA (Laboratoire de Mathématiques) offers an 18-month full-time postdoc position starting in February 2025. The aim of the position is to develop a conceptually clear solution for verifying the physical coherence of numerical simulations, addressing limitations of current programming language type systems. The successful candidate will work with Tom Hirschowitz and Pierre Hyvernat (Mathematics Laboratory) and Vincent Reverdy (Annecy Laboratory of Particle Physics). Relevant skills include type theory, category theory, programming language theory, proof assistants, and language implementation, though mastery of all is not required.</description>
+    <where>LAMA, Université Savoie Mont Blanc</where>
+    <when>2024-11-19</when>
+    <link>https://univ-smb.nous-recrutons.fr/poste/nzyn17a55c-chercheur-post-doctorant-fh-usmb-shine-guli-anr-22-exes-0017/</link>
+    <deadline>2024-12-09</deadline>
+</POST>
 
+<POST>
+    <title>1-year Part-Time Postdoc Position in Logic, Semantics, or Philosophy of Language</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>A 1-year part-time (70%) postdoc position in logic, semantics, philosophy of language, or similar research areas. The position is funded by the project MODREQUAM (&quot;Modal Reasoning, Quarc and Metaphysics&quot;, 2024-2028) at the Department of Philosophy, Central European University, Vienna. For further information, please contact Matteo Pascucci at pascuccim@ceu.edu.</description>
+    <where>Central European University, Department of Philosophy, Vienna</where>
+    <when>2024-11-19</when>
+    <link>https://careers.ceu.edu/job/Vienna-Post-doctoral-Researcher-%28fmd%29-1100/1136676555/</link>
+    <deadline>2024-12-31</deadline>
+</POST>
+
+<POST>
+    <title>2-year Research Assistant Position in Logic</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>A 2-year research assistant position (renewable up to 5 years) in logic at the Department of Mathematics at the University of Bologna, funded by the ERC grant &quot;Definable Algebraic Topology&quot;. Holding a PhD is not a necessary eligibility requirement; a master's degree is sufficient.</description>
+    <where>University of Bologna, Department of Mathematics</where>
+    <when>2024-11-19</when>
+    <link>https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68580</link>
+    <deadline>2024-11-30</deadline>
+</POST>
 
 <POST>
     <title>PhD in Theoretical Computer Science (Birmingham, UK)</title>
