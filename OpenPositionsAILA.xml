@@ -17,6 +17,8 @@
     Add new post right below here.
 -->
 
+
+
 <POST>
     <title>18-Month Full-Time Postdoc Position at LAMA</title>
     <number>1</number>
@@ -49,31 +51,28 @@
     <link>https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68580</link>
     <deadline>2024-11-30</deadline>
 </POST>
+
+<POST>
     <title>Postdoctoral fellow/junior scientist in proof theory and algebraic logic (Prague, Czech Republic)</title>
     <number>1</number>
     <type>Postdoc</type>
-    <description>We seek a postdoctoral fellow or junior scientist to join the Czech Science Foundation project “Interpolation, Amalgamation, and Computation” (INTERACT), led by Dr. Wesley Fussner at the Institute of Computer Science of the Czech Academy of Sciences.
-The project aims to develop an encompassing theory of interpolation across varied logical environments by unifying proof-theoretic and algebraic approaches. The successful candidate will conduct research along this theme, both individually and in collaboration with the PI and other team members.
-More information on the project may be found on its webpage (http://www.wesleyfussner.com/interact.html).</description>
+    <description>We seek a postdoctoral fellow or junior scientist to join the Czech Science Foundation project “Interpolation, Amalgamation, and Computation” (INTERACT), led by Dr. Wesley Fussner at the Institute of Computer Science of the Czech Academy of Sciences. The project aims to develop an encompassing theory of interpolation across varied logical environments by unifying proof-theoretic and algebraic approaches. The successful candidate will conduct research along this theme, both individually and in collaboration with the PI and other team members. More information on the project may be found on its webpage (http://www.wesleyfussner.com/interact.html).</description>
     <where>Institute of Computer Science of the Czech Academy of Sciences</where>
     <when>2024-11-15</when>
     <link>https://www.cs.cas.cz/job-offer/Postdoctoral-fellow-junior-scientist-Fussner-2024/en</link>
     <deadline>2025-01-15</deadline>
-</POST> 
-    
-    
+</POST>
+
 <POST>
     <title>PhD candidate in algebraic logic (Prague, Czech Republic)</title>
     <number>1</number>
     <type>PhD</type>
-    <description>We seek a Ph.D. candidate to join the Czech Science Foundation project “Interpolation, Amalgamation, and Computation” (INTERACT), led by Dr. Wesley Fussner at the Institute of Computer Science of the Czech Academy of Sciences.
-The project aims to develop an encompassing theory of interpolation across varied logical environments by unifying proof-theoretic and algebraic approaches. The successful candidate will conduct research on the themes of the project, working toward a Ph.D. dissertation under the supervision of Dr. Wesley Fussner.
-More information on the project may be found on the INTERACT webpage (http://www.wesleyfussner.com/interact.html).</description>
+    <description>We seek a Ph.D. candidate to join the Czech Science Foundation project “Interpolation, Amalgamation, and Computation” (INTERACT), led by Dr. Wesley Fussner at the Institute of Computer Science of the Czech Academy of Sciences. The project aims to develop an encompassing theory of interpolation across varied logical environments by unifying proof-theoretic and algebraic approaches. The successful candidate will conduct research on the themes of the project, working toward a Ph.D. dissertation under the supervision of Dr. Wesley Fussner. More information on the project may be found on the INTERACT webpage (http://www.wesleyfussner.com/interact.html).</description>
     <where>Institute of Computer Science of the Czech Academy of Sciences</where>
     <when>2024-11-15</when>
     <link>https://www.cs.cas.cz/job-offer/PhD-candidate-algebraic-logic-Fussner-2024/en</link>
     <deadline>2025-02-15</deadline>
-</POST> 
+</POST>
 
 <POST>
     <title>PhD in Theoretical Computer Science (Birmingham, UK)</title>
