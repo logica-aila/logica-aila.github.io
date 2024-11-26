@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <postsArchive>
 
 <!-- 
@@ -18,6 +19,17 @@
 -->
 
 
+<POST>
+    <title>Two 2-Year Postdoc Positions at LIP, ENS de Lyon</title>
+    <number>2</number>
+    <type>Postdoc</type>
+    <description>Two two-year postdoc positions, offered by the Labex MiLyon, have been opened in Lyon, France. All research topics of the LIP (the computer science lab at ENS de Lyon) are eligible: algorithms, graph theory, statistical learning, computer arithmetic, computer algebra, high-performance computing, combinatorics, compilation, algorithmic complexity, cryptography, distributed computing, quantum computing, programming languages, logic, computational models, parallelism, formal proofs, scheduling, networks, semantics, and verification. Candidates must find a mentor in the lab prior to their official application. Postdoc positions with no teaching duty, for the period September 2025 to August 2027. Contact at LIP: Isabelle Guérin Lassous, director of LIP (isabelle.guerin-lassous@ens-lyon.fr).
+    </description>
+    <where>LIP, ENS de Lyon, Lyon, France</where>
+    <when>2024-11-19</when>
+    <link>https://milyon.universite-lyon.fr/postdoctoral-positions-2025-2027-351922.kjsp</link>
+    <deadline>2025-01-10</deadline>
+</POST>
 
 <POST>
     <title>18-Month Full-Time Postdoc Position at LAMA</title>
