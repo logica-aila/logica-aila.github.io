@@ -19,6 +19,44 @@
 -->
 
 <POST>
+    <title>PostDoc Position in Proof Logging for Combinatorial Optimization, Leuven (the Netherlands)</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>Prof. Bart Bogaerts is looking for talented PostDocs to join the CertiFOX project, where we bring 100% correctness guarantees to tools for combinatorial optimization. For more information, see the CertiFOX project page or contact Bart Bogaerts at bart.bogaerts@kuleuven.be.</description>
+    <where>Leuven, the Netherlands</where>
+    <when>2024-11-19</when>
+    <link>https://www.bartbogaerts.eu/projects/CertiFOX/#Hiring</link>
+    <deadline>2025-02-06</deadline>
+</POST>
+
+<POST>
+    <title>(Senior) Lecturer Position in Mathematically Structured Programming @ Strathclyde, Glasgow (Scotland)</title>
+    <number>1</number>
+    <type>Lecturer</type>
+    <description>The Department of Computer and Information Sciences at the University of Strathclyde in Glasgow seeks to appoint a Chancellor&rsquo;s Fellow in Mathematically Structured Programming. We welcome applications from candidates with expertise in a range of topics in the mathematical foundations of computer sciences and applications, such as: 
+        * Logic, including modal and temporal logic, model checking, and proof theory;
+        * Category theory, including categorical semantics, and applied category theory;
+        * Type theory and functional programming, including semantics, metatheory, and implementation;
+        * Formal and mechanised mathematics, including certified programming and the use and implementation of proof assistants.
+        For more information, see the job page or contact Fredrik Nordvall Forsberg at fredrik.nordvall-forsberg@strath.ac.uk, or Clemens Kupke at clemens.kupke@strath.ac.uk.</description>
+    <where>University of Strathclyde, Glasgow, Scotland</where>
+    <when>2024-11-19</when>
+    <link>https://www.jobs.ac.uk/job/DKR108/strathclyde-chancellors-fellow-in-mathematically-structured-programming</link>
+    <deadline>2025-01-05</deadline>
+</POST>
+
+<POST>
+    <title>2-Year Postdoc in the ERC Project "Definable Algebraic Topology", Bologna (Italy)</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>Applications are invited for a 2-year research assistant position (renewable up to 5 years) in logic at the Department of Mathematics at the University of Bologna funded by the ERC grant "Definable Algebraic Topology". The selection is open to candidates holding a Master&rsquo;s Degree or equivalent in Mathematics or Informatics. For more information, see the official job posting.</description>
+    <where>University of Bologna, Bologna, Italy</where>
+    <when>2024-11-19</when>
+    <link>https://bandi.unibo.it/ricerca/assegni-ricerca?id_bando=68580</link>
+    <deadline>2024-11-30</deadline>
+</POST>
+
+<POST>
     <title>Fully Remote Postdoc Positions on SMT at Bar-Ilan University, Israel</title>
     <number>1</number>
     <type>Postdoc</type>
@@ -49,7 +87,6 @@
     <link>https://www.nii.ac.jp/en</link>
     <deadline>Open until filled</deadline>
 </POST>
-
 
 <POST>
     <title>Two 2-Year Postdoc Positions at LIP, ENS de Lyon</title>
