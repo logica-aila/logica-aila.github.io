@@ -22,7 +22,7 @@
     <title>Fully Remote Postdoc Positions on SMT at Bar-Ilan University, Israel</title>
     <number>1</number>
     <type>Postdoc</type>
-    <description>Fully remote postdoc positions on Satisfiability Modulo Theories (SMT) and proofs are available at Yoni Zohar’s group at Bar-Ilan University, Israel. The work will involve collaboration with the University of Iowa and Stanford University. Qualifications include good programming skills, a strong publication record in formal methods, and experience in automated reasoning. Interested applicants should send their CV, including a list of publications, in PDF format to Yoni Zohar along with the names of at least two references.</description>
+    <description>Fully remote postdoc positions on Satisfiability Modulo Theories (SMT) and proofs are available at Yoni Zohar&rsquo;s group at Bar-Ilan University, Israel. The work will involve collaboration with the University of Iowa and Stanford University. Qualifications include good programming skills, a strong publication record in formal methods, and experience in automated reasoning. Interested applicants should send their CV, including a list of publications, in PDF format to Yoni Zohar along with the names of at least two references.</description>
     <where>Bar-Ilan University, Israel (Remote)</where>
     <when>2024-11-19</when>
     <deadline>Open until filled</deadline>
@@ -40,90 +40,13 @@
 </POST>
 
 <POST>
-    <title>PhD, Postdoc & Senior Researcher Positions at Hasuo Laboratory, Tokyo</title>
+    <title>PhD, Postdoc &amp; Senior Researcher Positions at Hasuo Laboratory, Tokyo</title>
     <number>Multiple</number>
     <type>PhD, Postdoc, Senior Researcher</type>
     <description>Hasuo Laboratory at the National Institute of Informatics, Tokyo, Japan invites applications for positions in areas such as abstract and concrete automated verification, and mathematical logic for software, systems, and society. Collaboration opportunities include working with Bart Jacobs, Joost-Pieter Katoen, and Sam Staton. Positions last up to 4.5 years. Contact Ichiro Hasuo for more information.</description>
     <where>Hasuo Laboratory, National Institute of Informatics, Tokyo, Japan</where>
     <when>2024-11-19</when>
     <link>https://www.nii.ac.jp/en</link>
-    <deadline>Open until filled</deadline>
-</POST>
-
-<POST>
-    <title>Postdoctoral Researcher & Tenure-Track Positions at MPI-SP, Germany</title>
-    <number>Multiple</number>
-    <type>Postdoc, Tenure-Track</type>
-    <description>The Formally Verified Security group at MPI-SP in Germany seeks candidates for postdoctoral researcher and tenure-track positions. Postdocs will work collaboratively on topics like formal verification, proof assistants, type systems, PL semantics, and more. Tenure-track positions are available across all areas of computer science. Application deadline for tenure-track positions is December 1st, 2024.</description>
-    <where>MPI-SP, Ruhr University Bochum, Germany</where>
-    <when>2024-11-19</when>
-    <link>https://www.mpi-sp.org</link>
-    <deadline>2024-12-01</deadline>
-</POST>
-
-<POST>
-    <title>PhD Scholarship in Programming Language Semantics and Software Verification, King's College London</title>
-    <number>1</number>
-    <type>PhD</type>
-    <description>King’s College London offers a PhD scholarship in programming language semantics and software verification. Applications are assessed as they arrive, with deadlines at the end of December 2024 (for June 2025 start) and the end of May 2025 (for October 2025 start). Contact Maribel Fernandez for more information.</description>
-    <where>King’s College London, UK</where>
-    <when>2024-11-19</when>
-    <link>https://www.kcl.ac.uk</link>
-    <deadline>2024-12-31</deadline>
-</POST>
-
-<POST>
-    <title>Senior Computer Science Professorship at Oxford</title>
-    <number>1</number>
-    <type>Professor</type>
-    <description>The Department of Computer Science and St John’s College at Oxford offer a statutory professorship in computer science. The successful candidate will demonstrate world-leading research reputation and academic leadership. Application deadline is March 10th, 2025, with interviews in May 2025. Start date is September 1st, 2025.</description>
-    <where>Oxford University, UK</where>
-    <when>2024-11-19</when>
-    <link>https://www.cs.ox.ac.uk</link>
-    <deadline>2025-03-10</deadline>
-</POST>
-
-<POST>
-    <title>Assistant and Associate Professors at Aarhus University, Denmark</title>
-    <number>Multiple</number>
-    <type>Assistant Professor, Associate Professor</type>
-    <description>Aarhus University invites applications for tenure-track assistant and associate professorships in areas such as programming languages, software engineering, and logic and semantics. The deadline for applications is January 13th, 2025, with an expected start on June 1st, 2025.</description>
-    <where>Aarhus University, Denmark</where>
-    <when>2024-11-19</when>
-    <link>https://cs.au.dk</link>
-    <deadline>2025-01-13</deadline>
-</POST>
-
-<POST>
-    <title>Tenure-Track Assistant Professorship at Lund University, Sweden</title>
-    <number>1</number>
-    <type>Assistant Professor (Tenure Track)</type>
-    <description>Lund University invites applications for a tenure-track assistant professorship in the foundations of computer science, with a focus on logic and automated reasoning. Application deadline is January 8th, 2025.</description>
-    <where>Lund University, Sweden</where>
-    <when>2024-11-19</when>
-    <link>https://cs.lu.se</link>
-    <deadline>2025-01-08</deadline>
-</POST>
-
-<POST>
-    <title>Associate Professor at LIFO, Orléans, France</title>
-    <number>1</number>
-    <type>Associate Professor</type>
-    <description>The LIFO laboratory invites applications for an associate professorship in the LMV team, focused on advancing the reliability and security of software for IoT. The deadline is April 4th, 2025, with a start date of September 1st, 2025. Informal inquiries may be sent to Frédéric Loulergue.</description>
-    <where>LIFO, Orléans, France</where>
-    <when>2024-11-19</when>
-    <link>https://www.univ-orleans.fr</link>
-    <deadline>2025-04-04</deadline>
-</POST>
-
-<POST>
-    <title>PhD Position in Automated Reasoning and Machine Learning, Prague</title>
-    <number>1</number>
-    <type>PhD</type>
-    <description>The Automated Reasoning Group at CIIRC, CTU, Prague invites applications for a PhD position to enhance the Vampire theorem prover with neural guidance. The position is available from January 2025. Contact Martin Suda for more information.</description>
-    <where>CIIRC, CTU, Prague, Czech Republic</where>
-    <when>2024-11-19</when>
-    <link>https://www.ciirc.cvut.cz</link>
     <deadline>Open until filled</deadline>
 </POST>
 
