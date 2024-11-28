@@ -44,6 +44,6 @@ Fill the form on website of AILA ( https://www.ailalogica.it/modulo-richiesta-pu
 
 ___
 
-Posizioni attualmente presenti:
+##Posizioni attualmente presenti:
 
 <p id="noticeBoardOpenPositionsAILA" ></p><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
