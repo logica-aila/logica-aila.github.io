@@ -41,9 +41,3 @@ Note: the headers will be displayed in English
 
 ### How to advertise a position? 
 Fill the form on website of AILA ( https://www.ailalogica.it/modulo-richiesta-pubblicazione-posizioni-aperte/ ).
-
-___
-
-##Posizioni attualmente presenti:
-
-<p id="noticeBoardOpenPositionsAILA" ><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script></p>
