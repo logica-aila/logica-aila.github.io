@@ -46,4 +46,5 @@ ___
 
 ##Posizioni attualmente presenti:
 
-<p id="noticeBoardOpenPositionsAILA" ></p><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
+<p id="noticeBoardOpenPositionsAILA" ></p>
+<script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
