@@ -18,13 +18,31 @@
     Add new post right below here.
 -->
 
+
+<POST>
+    <title>PhD in Proof-Theoretic Semantics for Non-Classical and Modal Logics (London, UK)</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>We invite applications for a four-year PhD studentship on the Leverhulme-funded project "ECUMENICAL: Proof-theoretic semantics for non-classical and modal logics", led by Dr. Elaine Pimentel, Prof. David Pym, and Prof. Luiz Carlos Pereira at UCL. This interdisciplinary studentship, situated at the intersection of informatics, mathematics, and philosophy, focuses on developing proof-theoretic semantics for non-classical and modal logics, constructing the necessary abstract mathematical meta-theory, and investigating the implications of inferentialist semantics for systems verification. The successful candidate will work within the Programming Principles, Logic, and Verification group at UCL.
+
+    Application deadlines:
+    3 February 2025 (for a May 2025 start)
+    1 July 2025 (for an October 2025 start)
+    </description>
+    <where>UCL Computer Science</where>
+    <when>2024-11-29</when>
+    <link>https://www.findaphd.com/phds/project/ecumenical-proof-theoretic-semantics-for-non-classical-and-modal-logics/?p177226</link>
+    <deadline>2025-07-01</deadline>
+</POST>
+
+
 <POST>
     <title>PostDoc Position in Proof Logging for Combinatorial Optimization (Leuven, the Netherlands)</title>
     <number>1</number>
     <type>Postdoc</type>
     <description>Prof. Bart Bogaerts is looking for talented PostDocs to join the CertiFOX project, where we bring 100% correctness guarantees to tools for combinatorial optimization. For more information, see the CertiFOX project page or contact Bart Bogaerts at bart.bogaerts@kuleuven.be.</description>
     <where>Leuven, the Netherlands</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://www.bartbogaerts.eu/projects/CertiFOX/#Hiring</link>
     <deadline>2025-02-06</deadline>
 </POST>
@@ -40,7 +58,7 @@
         * Formal and mechanised mathematics, including certified programming and the use and implementation of proof assistants.
         For more information, see the job page or contact Fredrik Nordvall Forsberg at fredrik.nordvall-forsberg@strath.ac.uk, or Clemens Kupke at clemens.kupke@strath.ac.uk.</description>
     <where>University of Strathclyde, Glasgow, Scotland</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://www.jobs.ac.uk/job/DKR108/strathclyde-chancellors-fellow-in-mathematically-structured-programming</link>
     <deadline>2025-01-05</deadline>
 </POST>
@@ -51,7 +69,7 @@
     <type>Tenure/Permanent</type>
     <description>The Department of Computer Science at ETH Zurich invites applications for an assistant professorship (tenure track) in theoretical computer science, focusing on areas such as automated and interactive theorem proving, logic, SAT, SMT, semantics, and related topics. The position is open for applications until January 15th, 2025.</description>
     <where>ETH Zurich, Switzerland</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://www.ethz.ch/en/the-department.html</link>
     <deadline>2025-01-15</deadline>
 </POST>
@@ -62,7 +80,7 @@
     <type>Postdoc</type>
     <description>Hasuo Laboratory at the National Institute of Informatics, Tokyo, Japan invites applications for positions in areas such as abstract and concrete automated verification, and mathematical logic for software, systems, and society. Collaboration opportunities include working with Bart Jacobs, Joost-Pieter Katoen, and Sam Staton. Positions last up to 4.5 years. Contact Ichiro Hasuo for more information.</description>
     <where>Hasuo Laboratory, National Institute of Informatics, Tokyo, Japan</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://www.nii.ac.jp/en</link>
     <deadline>2025-02-28</deadline>
 </POST>
@@ -73,7 +91,7 @@
     <type>PhD</type>
     <description>Hasuo Laboratory at the National Institute of Informatics, Tokyo, Japan invites applications for positions in areas such as abstract and concrete automated verification, and mathematical logic for software, systems, and society. Collaboration opportunities include working with Bart Jacobs, Joost-Pieter Katoen, and Sam Staton. Positions last up to 4.5 years. Contact Ichiro Hasuo for more information.</description>
     <where>Hasuo Laboratory, National Institute of Informatics, Tokyo, Japan</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://www.nii.ac.jp/en</link>
     <deadline>2025-02-28</deadline>
 </POST>
@@ -85,7 +103,7 @@
     <description>Two two-year postdoc positions, offered by the Labex MiLyon, have been opened in Lyon, France. All research topics of the LIP (the computer science lab at ENS de Lyon) are eligible: algorithms, graph theory, statistical learning, computer arithmetic, computer algebra, high-performance computing, combinatorics, compilation, algorithmic complexity, cryptography, distributed computing, quantum computing, programming languages, logic, computational models, parallelism, formal proofs, scheduling, networks, semantics, and verification. Candidates must find a mentor in the lab prior to their official application. Postdoc positions with no teaching duty, for the period September 2025 to August 2027. Contact at LIP: Isabelle Guérin Lassous, director of LIP (isabelle.guerin-lassous@ens-lyon.fr).
     </description>
     <where>LIP, ENS de Lyon, Lyon, France</where>
-    <when>2024-11-19</when>
+    <when>2024-11-29</when>
     <link>https://milyon.universite-lyon.fr/postdoctoral-positions-2025-2027-351922.kjsp</link>
     <deadline>2025-01-10</deadline>
 </POST>
