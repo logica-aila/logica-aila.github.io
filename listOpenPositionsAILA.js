@@ -13,6 +13,7 @@ var day   =new Date().getDate();
 var month =new Date().getMonth()+1;
 var year  =new Date().getFullYear();
 
+
 // Function checking if the deadline for an announcement has passed
 function checkDeadline(expireDate){
   var parts = expireDate.trim().split('-');
@@ -21,6 +22,12 @@ function checkDeadline(expireDate){
   }else{
     return false;
   }
+}
+
+// Function formatting date
+function formatDate(dateString) {
+  var parts = dateString.split('-');
+  return parts[2] + '/' + parts[1] + '/' + parts[0];
 }
 
 // Access archive file and call listing method
@@ -117,7 +124,7 @@ function listPosts(xmlDoc) {
             +
             "<br>Deadline: "
             +
-            deadline[i].textContent
+            formatDate(deadline[i].textContent)
           ;
         }
         //
