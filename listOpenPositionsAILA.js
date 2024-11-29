@@ -92,6 +92,8 @@ function listPosts(xmlDoc) {
         var postElement = document.createElement("details");
         var postSummary = document.createElement("summary");
         var postDescription = document.createElement("p");
+        postDescription.setAttribute("style", "white-space: pre-line;"); // to keep new lines in description
+
 
         postSummary.innerHTML = '<b>' + title[i].textContent +'</b>';
         if(link[i].textContent){
