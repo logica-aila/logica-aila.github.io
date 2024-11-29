@@ -112,7 +112,7 @@ function listPosts(xmlDoc) {
             +
             "<br>Deadline: "
             +
-            deadline[i].textContent
+            formatDate(deadline[i].textContent)
           ;
         }else{
           postDescription.innerHTML = 
