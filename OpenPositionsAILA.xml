@@ -18,6 +18,27 @@
     Add new post right below here.
 -->
 
+<POST>
+    <title>PhD Positions at the University of Copenhagen</title>
+    <number>Multiple</number>
+    <type>PhD</type>
+    <description>The University of Copenhagen invites applications for PhD positions with a tentative start date of 1 September 2025 (negotiable). Research areas include algorithms, complexity theory, and related fields. Students will join a world-class research environment, ranked 1st in the EU for algorithms and complexity, and affiliated with the Basic Algorithms Research Copenhagen (BARC) centre.</description>
+    <where>University of Copenhagen, Denmark</where>
+    <when>2024-12-16</when>
+    <link>https://employment.ku.dk/phd/?show=163037</link>
+    <deadline>2025-01-10</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Positions at the University of Copenhagen</title>
+    <number>Multiple</number>
+    <type>Postdoc</type>
+    <description>The University of Copenhagen announces postdoctoral positions with a flexible starting date between April and September 2025. Research areas include algorithms, complexity theory, and foundational breakthroughs using mathematics. Join a leading environment ranked 1st in the EU, home to the BARC centre and active at top-tier conferences like STOC, FOCS, and SODA.</description>
+    <where>University of Copenhagen, Denmark</where>
+    <when>2024-12-16</when>
+    <link>https://jobportal.ku.dk/videnskabelige-stillinger/?show=163121</link>
+    <deadline>2025-01-10</deadline>
+</POST>
 
 <POST>
     <title>PhD in Proof-Theoretic Semantics for Non-Classical and Modal Logics (London, UK)</title>
