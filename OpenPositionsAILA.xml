@@ -18,6 +18,62 @@
     Add new post right below here.
 -->
 
+
+<POST>
+    <title>Postdoctoral Positions in TRUST and DEZINFO Projects</title>
+    <number>3</number>
+    <type>Postdoc</type>
+    <description>The Institute of Computer Science of the Czech Academy of Sciences (ICS CAS) invites applications for three postdoctoral positions in the TRUST and DEZINFO projects, focusing on theoretical computer science within the LogICS group.</description>
+    <where>Institute of Computer Science, Czech Academy of Sciences</where>
+    <when>2025-02-03</when>
+    <link>http://www.cs.cas.cz/logics/</link>
+    <deadline>2025-03-31</deadline>
+</POST>
+
+<POST>
+    <title>PhD Positions in Proof Logging and Combinatorial Optimization</title>
+    <number>2</number>
+    <type>PhD</type>
+    <description>Two PhD positions are available in Bart Bogaerts' research group at KU Leuven, focusing on proof logging and explanations for combinatorial optimization.</description>
+    <where>KU Leuven</where>
+    <when>2025-02-03</when>
+    <link>https://www.kuleuven.be/personeel/jobsite/jobs/60425822</link>
+    <deadline>2025-02-06</deadline>
+</POST>
+
+<POST>
+    <title>Postdoc Position in Combinatorial Optimization and Proof Logging</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>A postdoc position is available in Bart Bogaerts' research group at KU Leuven, focusing on advanced research in combinatorial optimization and proof logging.</description>
+    <where>KU Leuven</where>
+    <when>2025-02-03</when>
+    <link>https://www.kuleuven.be/personeel/jobsite/jobs/60411819</link>
+    <deadline>2025-02-06</deadline>
+</POST>
+
+<POST>
+    <title>ATER Positions in Computer Science</title>
+    <number>3</number>
+    <type>Postdoc</type>
+    <description>The Department of Computer Science at ENS de Lyon is offering 3 ATER positions for the 2025–2026 academic year. Responsibilities include teaching practical and theoretical classes at undergraduate and graduate levels. Research topics cover all areas of the Laboratoire de l'Informatique du Parallélisme (LIP).</description>
+    <where>ENS de Lyon, Department of Computer Science</where>
+    <when>2025-02-03</when>
+    <link>https://www.ens-lyon.fr/lecole/travailler-lens-de-lyon/recrutement-des-enseignants-et-des-chercheurs/recrutement-dater</link>
+    <deadline>2025-02-17</deadline>
+</POST>
+
+<POST>
+    <title>Assistant Professor Positions in Computer Science (Warsaw, PL)</title>
+    <number>7</number>
+    <type>Tenure/Permanent</type>
+    <description>The Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw invites applications for 7 assistant professor positions in computer science. Research areas include algorithms, logic and automata, computational biology, distributed systems, programming languages, cryptography, databases, and machine learning.</description>
+    <where>University of Warsaw, Faculty of Mathematics, Informatics, and Mechanics</where>
+    <when>2025-02-03</when>
+    <link>https://www.mimuw.edu.pl/en/open-positions</link>
+    <deadline>2025-02-14</deadline>
+</POST>
+
 <POST>
     <title>Fully-Funded PhD Studentships in Programming Languages and Systems</title>
     <type>PhD</type>
@@ -26,7 +82,6 @@
     <deadline>2025-02-15</deadline>
     <link>https://www.kent.ac.uk/courses/postgraduate/283/computer-science</link>
 </POST>
-
 
 <POST>
     <title>PhD Position in Knowledge Representation and Reasoning</title>
