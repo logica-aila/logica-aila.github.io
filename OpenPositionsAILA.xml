@@ -18,6 +18,16 @@
     Add new post right below here.
 -->
 
+<POST>
+    <title>Faculty Positions in Computer Science at École Polytechnique</title>
+    <number>8</number>
+    <type>Faculty</type>
+    <description>École Polytechnique, a leading engineering school within IP Paris, invites applications for multiple faculty positions in Computer Science starting in September 2025. Openings include positions in cybersecurity, trustworthy AI, optimization, reinforcement learning, and multimodal AI.</description>
+    <where>École Polytechnique, France</where>
+    <when>2025-09-01</when>
+    <link>https://candidatures-calliope.polytechnique.fr/calliope-fo/recherche/index.php?lang=fr</link>
+    <deadline>2025-04-04</deadline>
+</POST>
 
 <POST>
     <title>Postdoctoral Positions in TRUST and DEZINFO Projects</title>
