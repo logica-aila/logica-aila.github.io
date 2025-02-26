@@ -19,6 +19,29 @@
 -->
 
 <POST>
+    <title>PhD Position on Formal Methods for the Safety of AI</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>The Laboratoire d'Informatique de l'École Polytechnique (LIX) is offering a PhD position in the Cosynus team, focusing on the verification of probabilistic properties for AI. The research will explore formal methods for AI safety, including robustness, explainability, and imprecise probability models.</description>
+    <where>École Polytechnique, Institut Polytechnique de Paris, France</where>
+    <when>2025-10-01</when>
+    <link>mailto:sylvie.putot@polytechnique.edu,eric.goubault@polytechnique.edu</link>
+    <deadline>2025-06-25</deadline>
+</POST>
+
+
+<POST>
+    <title>Postdoctoral Researcher in Programming Languages</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The University of Bristol invites applications for a postdoctoral researcher in Programming Languages. The successful candidate will have the freedom to pursue self-directed research in areas such as functional programming, program verification/analysis, program synthesis, and type theory. The position is for 18 months, with the possibility of extension.</description>
+    <where>University of Bristol</where>
+    <when>2025-03-26</when>
+    <link>https://www.bristol.ac.uk/jobs/find/details/?jobId=372879&amp;jobTitle=Senior%20Research%20Associate%20in%20Programming%20Languages</link>
+    <deadline>2025-03-26</deadline>
+</POST>
+
+<POST>
     <title>Faculty Positions in Computer Science at École Polytechnique</title>
     <number>8</number>
     <type>Faculty</type>
