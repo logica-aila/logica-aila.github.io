@@ -19,6 +19,17 @@
 -->
 
 <POST>
+    <title>PhD Positions in Foundations of Neuro-Symbolic Multi-Agent Systems</title>
+    <number>2</number>
+    <type>PhD</type>
+    <description>The University of Sussex is offering two PhD positions in Computer Science, focusing on the foundations of Neuro-Symbolic Multi-Agent Systems, including logic, game theory, and formal methods. The studentship includes a tax-free stipend, fee waiver, and research grant.</description>
+    <where>University of Sussex, UK</where>
+    <when>2025-03-20</when>
+    <link>https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1839-PhD-Informatics-Studentship:-Foundations-of-Neuro-Symbolic-Multi-Agent-Systems</link>
+    <deadline>2025-04-25</deadline>
+</POST>
+
+<POST>
     <title>PhD Position on Formal Methods for the Safety of AI</title>
     <number>1</number>
     <type>PhD</type>
@@ -28,7 +39,6 @@
     <link>mailto:sylvie.putot@polytechnique.edu,eric.goubault@polytechnique.edu</link>
     <deadline>2025-06-25</deadline>
 </POST>
-
 
 <POST>
     <title>Postdoctoral Researcher in Programming Languages</title>
@@ -230,7 +240,6 @@ Roma Tre University encourages applications from candidates of all backgrounds. 
     <link>https://www.findaphd.com/phds/project/ecumenical-proof-theoretic-semantics-for-non-classical-and-modal-logics/?p177226</link>
     <deadline>2025-07-01</deadline>
 </POST>
-
 
 <POST>
     <title>PostDoc Position in Proof Logging for Combinatorial Optimization (Leuven, the Netherlands)</title>
@@ -450,7 +459,6 @@ The starting date of the positions is usually in September-October, but this may
     <deadline>2024-10-01</deadline>
 </POST>
 
-
 <POST>
     <title>Assistant Professorship (W2tt) for Pure Mathematics</title>
     <number>1</number>
@@ -645,8 +653,6 @@ The starting date of the positions is usually in September-October, but this may
     <deadline>2024-10-15</deadline>
 </POST> 
 
-
-
 <POST>
     <title>PostDoc position in Torino</title>
     <number>1</number>
@@ -713,7 +719,6 @@ The starting date of the positions is usually in September-October, but this may
     <deadline>2024-07-09</deadline>
 </POST>
 
-
 <POST>
     <title>Postdoctoral Research Fellow at the University of Surrey (Guildford, UK)</title>
     <number>1</number>
@@ -760,7 +765,6 @@ The starting date of the positions is usually in September-October, but this may
     <link>https://emploi.cnrs.fr/Offres/Doctorant/UMR7304-PAOCAN-001/Default.aspx?lang=EN</link>
     <deadline> 2024-06-03 </deadline>
 </POST>
-
 
 <POST>
     <title>Three 2-year postdocs (Milano, IT)</title>
@@ -809,7 +813,6 @@ The starting date of the positions is usually in September-October, but this may
     <link>https://lmbp.uca.fr/emplois/index.php</link>
     <deadline> 2024-06-30 </deadline>
 </POST> 
-
 
 <POST>
     <title>PhD program in Mathematics (Torino, Italy)</title>
