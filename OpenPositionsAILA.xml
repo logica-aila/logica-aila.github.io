@@ -19,6 +19,28 @@
 -->
 
 <POST>
+    <title>Postdoc Position in Semantics of Programming Languages</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>A postdoctoral position is available in the Plume team at LIP, ENS de Lyon, focusing on the semantics of programming languages. Topics of interest include probabilistic programming, differentiable programming, linear logic, and denotational semantics. Candidates with backgrounds in functional programming, lambda calculus, types, or Curry-Howard correspondence are encouraged to apply.</description>
+    <where>ENS de Lyon</where>
+    <when>2025-04-02</when>
+    <link>https://www.ens-lyon.fr/LIP/PLUME/</link>
+    <deadline>2025-05-31</deadline>
+</POST>
+
+<POST>
+    <title>Postdoc Position in Computational Models and Discrete Dynamical Systems</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The ANR project ALARICE is offering a postdoctoral position at the interface of computational models, discrete dynamical systems, algorithmic complexity, finite-model theory, and graph logics. Candidates with expertise in at least two of these areas are encouraged to apply. The researcher will join the Natural Computing group at LIS in Marseille Luminy.</description>
+    <where>LIS, Marseille Luminy</where>
+    <when>2025-02-04</when>
+    <link>https://alarice.lis-lab.fr/</link>
+    <deadline>2025-06-01</deadline>
+</POST>
+
+<POST>
     <title>PhD Positions in Mathematical Logic</title>
     <number>2-3</number>
     <type>PhD</type>
