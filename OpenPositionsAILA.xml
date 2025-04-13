@@ -19,6 +19,39 @@
 -->
 
 <POST>
+    <title>Postdoc in Model Theory of Analytic Functions</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>A 6-month postdoctoral position is available at the University of Leeds, funded by the EPSRC grant "Model theory of analytic functions". The position is intended for early-career researchers with aligned interests. Interested candidates can contact Vincenzo Mantova for more information.</description>
+    <where>University of Leeds</where>
+    <when>2025-04-13</when>
+    <link>https://jobs.leeds.ac.uk/Vacancy.aspx?ref=EPSMA1124</link>
+    <deadline>2025-04-27</deadline>
+</POST>
+
+<POST>
+    <title>Assistant Professor in Mathematical Logic (Tenure Track)</title>
+    <number>1</number>
+    <type>Tenure/Permanent</type>
+    <description>Stockholm University’s Department of Mathematics is hiring an Assistant Professor in Mathematics with a focus on Mathematical Logic. Applicants from all areas of logic are welcome. The department hosts a vibrant logic group and encourages applications from underrepresented groups. The position is tenure-track and includes involvement in the department’s regular seminars and collaborations.</description>
+    <where>Stockholm University</where>
+    <when>2025-04-13</when>
+    <link>https://su.varbi.com/en/what:job/jobID:796743/where:4/</link>
+    <deadline>2025-04-15</deadline>
+</POST>
+
+<POST>
+    <title>PhD Fellowship in Higher-Order Metaphysics</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>The Department of Philosophy at the University of Geneva is offering a four-year PhD fellowship as part of Fabrice Correia's SNSF project "Higher-Order Metaphysics: Foundations, Motivations and Hyperintensional Developments". The project is associated with the eidos Centre for Metaphysics and aims to address foundational and hyperintensional aspects of higher-order metaphysics. Applicants should have a good command of English; knowledge of French is not required.</description>
+    <where>University of Geneva</where>
+    <when>2025-04-13</when>
+    <link>https://eidoscentre.org/</link>
+    <deadline>2025-05-15</deadline>
+</POST>
+
+<POST>
     <title>Postdoc Position in Semantics of Programming Languages</title>
     <number>1</number>
     <type>Postdoc</type>
@@ -98,7 +131,7 @@
 <POST>
     <title>Faculty Positions in Computer Science at École Polytechnique</title>
     <number>8</number>
-    <type>Faculty</type>
+    <type>Tenure/Permanent</type>
     <description>École Polytechnique, a leading engineering school within IP Paris, invites applications for multiple faculty positions in Computer Science starting in September 2025. Openings include positions in cybersecurity, trustworthy AI, optimization, reinforcement learning, and multimodal AI.</description>
     <where>École Polytechnique, France</where>
     <when>2025-09-01</when>
