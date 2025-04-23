@@ -19,6 +19,40 @@
 -->
 
 <POST>
+    <title>PhD Position on Efficient Enumeration via Edits</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>The LINKS team at Inria Lille is offering a PhD position on the topic of "Efficient enumeration via edits". The project aims to develop enumeration algorithms where solutions are described through edits from previous ones, with applications in automata theory, graph theory, and databases. The PhD will be supervised by Antoine Amarilli and Mikaël Monet within the dynamic research environment of the LINKS team, a joint effort of Inria Lille, University of Lille, and CRIStAL laboratory.</description>
+    <where>Inria Lille</where>
+    <when>2025-04-13</when>
+    <link>https://a3nm.net/work/research/offers/phd_enumeration_changes.pdf</link>
+    <deadline>2025-04-30</deadline>
+</POST>
+
+<POST>
+    <title>PhD Position in Combinatorics, Numeration Systems, and Automata Theory</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>The Discrete Mathematics team of the Department of Mathematics at the University of Liège (ULiège) is offering a PhD position within the FNRS MIS project "An in-depth study of regular sequences as a (discrete) bridge between combinatorics on words and abstract numeration systems." The project lies at the intersection of combinatorics on words, numeration systems, number theory, and automata/formal language theory. The position is for 4 years, tentatively starting in October 2025 (with some flexibility).</description>
+    <where>University of Liège</where>
+    <when>2025-04-13</when>
+    <link>https://euraxess.ec.europa.eu/jobs/307621</link>
+    <deadline>Not specified</deadline>
+</POST>
+
+<POST>
+    <title>Postdoc Position in Combinatorics, Numeration Systems, and Automata Theory</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The Discrete Mathematics team of the Department of Mathematics at the University of Liège (ULiège) is offering a postdoctoral position within the FNRS MIS project "An in-depth study of regular sequences as a (discrete) bridge between combinatorics on words and abstract numeration systems." The research lies at the interface of combinatorics on words, numeration systems, number theory, and automata/formal language theory. The position is intended to last 1 to 3 years and is expected to start around October 2025 (with flexible starting date).</description>
+    <where>University of Liège</where>
+    <when>2025-04-13</when>
+    <link>https://euraxess.ec.europa.eu/jobs/307628</link>
+    <deadline>Not specified</deadline>
+</POST>
+
+
+<POST>
     <title>Postdoc in Model Theory of Analytic Functions</title>
     <number>1</number>
     <type>Postdoc</type>
