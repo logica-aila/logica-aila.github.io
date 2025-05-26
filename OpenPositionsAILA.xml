@@ -17,6 +17,84 @@
     Do not remove previous posts.
     Add new post right below here.
 -->
+
+
+<POST>
+    <title>PhD Positions in the Cluster of Excellence “Bilateral AI” at TU Wien</title>
+    <number>2</number>
+    <type>PhD</type>
+    <description>
+        The Vienna Center for Logic and Algorithms (VCLA) at TU Wien invites applications for two PhD positions within the Cluster of Excellence “Bilateral AI”. The research focuses on combining symbolic and sub-symbolic AI methods. Successful candidates will conduct research at TU Wien in collaboration with partner institutes including Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, and WU Vienna. The program offers interdisciplinary training, joint seminars, scientific workshops, and opportunities for teaching and supervision.
+    </description>
+    <where>Vienna Center for Logic and Algorithms (VCLA), TU Wien, Austria</where>
+    <when>2024-08-30</when>
+    <link>https://www.vcla.at/2024/08/open-positions-cluster-of-excellence/</link>
+    <deadline>01/08/2025</deadline>
+</POST>
+
+<POST>
+    <title>Postdoc Positions in the Cluster of Excellence “Bilateral AI” at TU Wien</title>
+    <number>Multiple</number>
+    <type>Postdoc</type>
+    <description>
+        The Vienna Center for Logic and Algorithms (VCLA) at TU Wien invites applications for multiple Postdoc positions within the Cluster of Excellence “Bilateral AI”. The research focuses on combining symbolic and sub-symbolic AI methods. Successful candidates will conduct research at TU Wien in collaboration with partner institutes including Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, and WU Vienna. The program offers interdisciplinary training, joint seminars, scientific workshops, and opportunities for teaching and supervision.
+    </description>
+    <where>Vienna Center for Logic and Algorithms (VCLA), TU Wien, Austria</where>
+    <when>2024-08-30</when>
+    <link>https://www.vcla.at/2024/08/open-positions-cluster-of-excellence/</link>
+    <deadline>01/08/2025</deadline>
+</POST>
+
+
+<POST>
+    <title>PhD Positions in Symbolic and Sub-symbolic AI</title>
+    <number>Multiple</number>
+    <type>PhD</type>
+    <description>
+        The LIT Artificial Intelligence Lab at Johannes Kepler University Linz invites applications for multiple PhD positions within the Cluster of Excellence “Bilateral AI”. The research focuses on combining symbolic and sub-symbolic AI methods. Successful candidates will conduct research at JKU in collaboration with partner institutes AAU Klagenfurt, ISTA, TU Graz, TU Vienna, and WU Vienna. The program offers interdisciplinary training, joint seminars, scientific workshops, and opportunities for teaching and supervision.
+    </description>
+    <where>Johannes Kepler University Linz, Austria</where>
+    <when>2025-05-12</when>
+    <link>https://www.jku.at/lit-artificial-intelligence-lab/news-events/open-positions-cluster-of-excellence/</link>
+    <deadline>01/08/2025</deadline>
+</POST>
+
+<POST>
+    <title>Open PhD and Postdoc Positions in Bilateral AI at Graz University of Technology</title>
+    <number>5</number>
+    <type>PhD, Postdoc</type>
+    <description>
+        Graz University of Technology's Institute of Machine Learning and Neural Computation (IML) invites applications for 3 PhD positions and 2 Postdoc positions within the Cluster of Excellence "Bilateral AI". The research focuses on integrating symbolic and sub-symbolic AI methods, with opportunities to work on projects related to explainable AI, quality assurance of AI-based systems, and tractable causal reasoning. Successful candidates will collaborate with partner institutions including JKU, AAU Klagenfurt, ISTA, TU Vienna, and WU Vienna.
+    </description>
+    <where>Graz University of Technology, Institute of Machine Learning and Neural Computation, Graz, Austria</where>
+    <when>2025-05-12</when>
+    <link>https://www.tugraz.at/institute/iml/institute/open-positions/bilai-jobs</link>
+    <deadline>01/08/2025</deadline>
+</POST>
+
+<POST>
+    <title>PhD positions in The Human Mind and its Explanations: Language, Brain, and Reasoning (HuME)</title>
+    <number>11</number>
+    <type>PhD</type>
+    <description>The HuME PhD program, jointly offered by IUSS Pavia, Università degli Studi di Milano, and Scuola Normale Superiore di Pisa, invites applications for 11 fully funded three-year positions. The program adopts a multidisciplinary approach to human cognition, encompassing philosophy of mind, epistemology, logic, cognitive sciences, neuroscience, linguistics, and artificial intelligence. Among the positions, two are funded under the FIS2 Consolidator Grant &quot;Humanizing Mathematical Knowledge: Fallibility, Technology, Know-How&quot;, and one under the FIS2 Starting Grant &quot;Severe Uncertainty: Decisions, Evidence, and Probability&quot;. Applicants should hold a Master's degree or equivalent by October 31, 2025. The program offers an annual salary of approximately €16,243, with an additional research budget of 10% of the scholarship.</description>
+    <where>IUSS Pavia, Università degli Studi di Milano, and Scuola Normale Superiore di Pisa</where>
+    <when>2025-05-24</when>
+    <link>https://www.iusspavia.it/en/education/doctoral-programmes/human-mind-and-its-explanations-language-brain-and-reasoning-hume/apply</link>
+    <deadline>2025-06-09</deadline>
+</POST>
+
+<POST>
+    <title>PhD position on expressivity of imperative programs</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>Leiden University's Institute of Advanced Computer Science (LIACS) invites applications for a PhD position exploring the expressivity of imperative programming languages. The research focuses on the theoretical limits of programming language semantics, particularly in relation to abstract machines and control flow constructs. The project integrates concepts from programming languages, automata theory, and process algebra, with applications in compiler optimization and decompilation.</description>
+    <where>Leiden Institute of Advanced Computer Science (LIACS), Leiden University</where>
+    <when>2025-05-24</when>
+    <link>https://www.universiteitleiden.nl/en/vacancies/2025/q2/15703-phd-candidate-on-expressivity-of-imperative-programs</link>
+    <deadline>2025-06-30</deadline>
+</POST>
+
+
 <POST>
     <title>Two open positions on formal methods and security protocol verification (Squirrel Prover)</title>
     <number>2</number>
