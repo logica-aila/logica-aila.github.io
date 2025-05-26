@@ -17,7 +17,6 @@
     Do not remove previous posts.
     Add new post right below here.
 -->
-
 <POST>
     <title>Two open positions on formal methods and security protocol verification (Squirrel Prover)</title>
     <number>2</number>
@@ -26,7 +25,7 @@
     <where>Pesto team, Loria, Nancy</where>
     <when>2025-05-24</when>
     <link>https://charlie.jacomme.fr/positions/positions/</link>
-    <deadline></deadline>
+    <deadline>2025-06-15</deadline>
 </POST>
 
 <POST>
@@ -47,7 +46,7 @@
     <description>The Discrete Mathematics team at the University of Liège (Belgium) invites applications for a two-year postdoctoral fellowship. Due to supervisor limitations, a pre-selection process will take place. Interested candidates should contact Manon Stipulanti by email before June 30, 2025. Further details are available via the provided link.</description>
     <where>University of Liège</where>
     <when>2025-06-30</when>
-    <link>https://www.recherche.uliege.be/cms/c_13352123/fr/ipd-stema?sc_src=email_1393745&sc_lid=153962203&sc_llid=2028</link>
+    <link>https://www.recherche.uliege.be/cms/c_13352123/fr/ipd-stema?sc_src=email_1393745&amp;sc_lid=153962203&amp;sc_llid=2028</link>
     <deadline>2025-06-30</deadline>
 </POST>
 
@@ -133,7 +132,7 @@
     <title>Assistant Professor in Mathematical Logic (Tenure Track)</title>
     <number>1</number>
     <type>Tenure/Permanent</type>
-    <description>Stockholm University’s Department of Mathematics is hiring an Assistant Professor in Mathematics with a focus on Mathematical Logic. Applicants from all areas of logic are welcome. The department hosts a vibrant logic group and encourages applications from underrepresented groups. The position is tenure-track and includes involvement in the department’s regular seminars and collaborations.</description>
+    <description>Stockholm University's Department of Mathematics is hiring an Assistant Professor in Mathematics with a focus on Mathematical Logic. Applicants from all areas of logic are welcome. The department hosts a vibrant logic group and encourages applications from underrepresented groups. The position is tenure-track and includes involvement in the department's regular seminars and collaborations.</description>
     <where>Stockholm University</where>
     <when>2025-04-13</when>
     <link>https://su.varbi.com/en/what:job/jobID:796743/where:4/</link>
