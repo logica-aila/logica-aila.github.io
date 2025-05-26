@@ -98,12 +98,6 @@ function listPosts(xmlDoc) {
         postSummary.innerHTML = '<b>' + title[i].textContent +'</b>';
         if(link[i].textContent){
           postDescription.innerHTML =
-            // '('
-            // + 
-            // when[i].textContent 
-            // +
-            // ')'
-            // +
             description[i].textContent
             +
             "<br>Numero posizioni: " 
