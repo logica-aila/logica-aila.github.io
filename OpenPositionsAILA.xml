@@ -19,6 +19,28 @@
 -->
 
 <POST>
+    <title>Two open positions on formal methods and security protocol verification (Squirrel Prover)</title>
+    <number>2</number>
+    <type>Postdoc/Engineer</type>
+    <description>The Pesto team at Loria (Nancy, France) is offering two positions focused on the use of the Squirrel Prover, a theorem prover for formal verification of security protocols. Projects involve applications to e-voting systems and secure messaging protocols like Signal. Candidates with backgrounds in either cryptography or formal methods are encouraged to apply.</description>
+    <where>Pesto team, Loria, Nancy</where>
+    <when>2025-05-24</when>
+    <link>https://charlie.jacomme.fr/positions/positions/</link>
+    <deadline></deadline>
+</POST>
+
+<POST>
+    <title>PhD position in topological data analysis and neural networks for biology</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>A PhD position is available at the Institut Camille Jordan in Lyon on the topic of topological data analysis and topological neural networks in molecular and evolutionary biology. The project will be carried out in collaboration with the Laboratoire de Biométrie et Biologie Évolutive and the Laboratoire de Microbiologie, Adaptation et Pathogénie.</description>
+    <where>Institut Camille Jordan, Université Lyon 1</where>
+    <when>2025-05-24</when>
+    <link>https://emploi.cnrs.fr/Offres/Doctorant/UMR5208-PHIMAL-002/Default.aspx</link>
+    <deadline>2025-06-09</deadline>
+</POST>
+
+<POST>
     <title>Postdoctoral Fellowship in Discrete Mathematics</title>
     <number>1</number>
     <type>Postdoc</type>
