@@ -18,6 +18,39 @@
     Add new post right below here.
 -->
 
+<POST>
+    <title>10 PhD positions in Mathematics (Turin, Italy), deadline June 16th (Torino)</title>
+    <number>10</number>
+    <type>PhD</type>
+    <description>
+        The University of Turin invites applications for its PhD program in Mathematics. Research areas of interest include set theory, model theory, and descriptive set theory.
+        
+        There are 10 positions with scholarship, with one reserved for candidates with a foreign master degree. See the link <https://www.dottorato.unito.it/do/documenti.pl/ShowFile?_id=strh;field=file;key=buoNnh487IWtnOeSOQoh8DBHAib6NEw6BMDoOqd10s9aPZTNVwd7g;t=5580> for a description of the 10 positions, some of which involve a joint supervision with a foreign partner.
+        
+        The interviews for the selection of candidates will take place in July, and can be carried out online. The outcome of the selection will be published at the beginning of August; admitted candidates have 7 days to accept the position.
+        
+        Candidates can obtain their Master degree by October 31st, 2025 (and not by the expiry date of the call).
+        
+        The starting date of the PhD program is November 1st, 2025.
+    </description>
+    <where>Dipartimento di Matematica "G. Peano", Università degli Studi di Torino</where>
+    <when>2025-05-28</when>
+    <link>https://www.dottorato.unito.it/do/home.pl/View?doc=Bando_XLI_ciclo.html</link>
+    <deadline>2025-06-16</deadline>
+</POST>
+
+<POST>
+    <title>PhD Positions in the Project "Cyclic Structures in Programs and Proofs"</title>
+    <number>6</number>
+    <type>PhD</type>
+    <description>
+        We invite applications for six fully funded PhD positions (4 years) as part of the €3 million NWO-funded project "Cyclic Structures in Programs and Proofs - New Harmonies in Software Correctness by Construction". The project explores foundational aspects of software verification, including modal logic, proof theory, coalgebras, programming languages, concurrency, type systems, and proof assistants (Agda, Rocq). The research consortium involves eight Dutch and European universities. Successful candidates will be employed at one of the participating universities and collaborate across institutions.
+    </description>
+    <where>Various Dutch Universities (University of Groningen, Leiden University, TU Delft, etc.)</where>
+    <when>2025-06-04</when>
+    <link>https://cyclic-structures.gitlab.io/vacancies</link>
+    <deadline>2025-05-26</deadline>
+</POST>
 
 <POST>
     <title>PhD Positions in the Cluster of Excellence “Bilateral AI” at TU Wien</title>
