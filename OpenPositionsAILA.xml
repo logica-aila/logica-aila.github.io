@@ -18,6 +18,46 @@
     Add new post right below here.
 -->
 
+
+<POST>
+    <title>PhD Position in Logics for Multi-Agent Systems</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>
+        Utrecht University invites applications for a fully funded 4-year PhD position focused on the logical modelling of accountability and responsibility in multi-agent systems. The position is part of the interdisciplinary ELSA Lab on Legal, Regulatory, and Policy Aspects of Clinical Decision Support Systems. Applicants should hold or be near completion of an MSc in Logic, Computer Science, Mathematics, Artificial Intelligence, or a related field.
+    </description>
+    <where>Utrecht University, Netherlands</where>
+    <when>2025-06-09</when>
+    <link>https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-logics-for-multi-agent-systems</link>
+    <deadline>2025-07-06</deadline>
+</POST>
+
+<POST>
+    <title>PhD Program in Mind, Brain, and Human Thought (MBHT)</title>
+    <number>Multiple</number>
+    <type>PhD</type>
+    <description>
+        The IMT School for Advanced Studies Lucca (Italy) invites applications to its interdisciplinary PhD program in Mind, Brain, and Human Thought (MBHT), offered entirely in English. The program targets candidates with a strong background in philosophy of science, formal epistemology, or logic, and interests at the interface of philosophy, cognitive (neuro)science, and behavioral economics. The position includes a 3-year scholarship, research funds, free accommodation and meals, international mobility support, and more. PhD students will join the MInD (Models, Inferences, and Decisions) group within the MoMiLab unit.
+    </description>
+    <where>IMT School for Advanced Studies Lucca, Italy</where>
+    <when>2025-06-04</when>
+    <link>https://mbht.imtlucca.it/mbhtimt-school</link>
+    <deadline>2025-06-30</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Position on Type Systems for Physical Consistency in Programming</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>
+        The LAMA (Laboratoire de Mathématiques, Université Savoie Mont Blanc) is offering a full-time, 18-month postdoctoral position starting in September 2025. The project addresses the lack of physical consistency checks in numerical simulation programs, aiming to develop a conceptually clear yet comprehensive type system solution. The postdoc will work with Tom Hirschowitz, Pierre Hyvernat, and Vincent Reverdy. Relevant skills include type theory, proof assistants, category theory, and programming language implementation, though expertise in all is not required.
+    </description>
+    <where>LAMA, Université Savoie Mont Blanc, France</where>
+    <when>2025-06-04</when>
+    <link>https://www.univ-smb.fr/wp-content/uploads/2025/06/offre-emploi-post-doct_2025_lama-shine-guli2-vf.pdf</link>
+    <deadline>2025-07-03</deadline>
+</POST>
+
 <POST>
     <title>10 PhD positions in Mathematics (Turin, Italy), deadline June 16th (Torino)</title>
     <number>10</number>
