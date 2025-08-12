@@ -20,9 +20,8 @@ Per includere la lista degli annunci sul proprio sito web, basta includere la se
 ### Come pubblicare un annuncio nella lista?
 Per richiedere di pubblicare una posizione compilare il modulo sul sito AILA ( https://www.ailalogica.it/modulo-richiesta-pubblicazione-posizioni-aperte/ ).
 
-### Posizioni attualmente nella lista
+<p id="noticeBoardOpenPositionsAILA" ></p>
 
-<p id="noticeBoardOpenPositionsAILA" ></p><script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
 ___
 
 ## ENGLISH VERSION
@@ -44,3 +43,7 @@ Note: the headers will be displayed in English
 
 ### How to advertise a position? 
 Fill the form on website of AILA ( https://www.ailalogica.it/modulo-richiesta-pubblicazione-posizioni-aperte/ ).
+
+
+
+<script src="https://logica-aila.github.io/listOpenPositionsAILA.js"></script>
