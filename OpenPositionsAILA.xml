@@ -19,6 +19,61 @@
 -->
 
 <POST>
+    <title>Postdoctoral Fellowship in Topology and Representation Theory</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The Laboratoire de Mathématiques Blaise Pascal at Université Clermont Auvergne (Clermont-Ferrand, France) invites applications for a three-year postdoctoral fellowship in topology and representation theory. The research will focus on topics such as quantum knot and 3-manifold invariants, categorifications, and representation theory of quantum groups. The position is funded by the ANR-24-CPJ1-0026-01 project within the CPJ funding of Cristina Palmer-Anghel. The fellowship offers a net monthly salary of approximately €2400, research travel support, and integration into an active research group.</description>
+    <where>Université Clermont Auvergne, Laboratoire de Mathématiques Blaise Pascal, Clermont-Ferrand, France</where>
+    <when>2025-10-14</when>
+    <link>mailto:cristina.anghel@uca.fr</link>
+    <deadline>2025-12-31</deadline>
+</POST>
+
+<POST>
+    <title>PhD Positions in Mathematical Foundations of Computation</title>
+    <number>5</number>
+    <type>PhD</type>
+    <description>The Mathematical Foundations of Computation group at the University of Bath invites applications for several fully funded PhD projects starting in September 2026. Funding is available through Bath's University Research Studentship Award (URSA) scheme, open to both home and exceptional international candidates. Research topics include conceptual denotational semantics via categorical logic, expressiveness and complexity in proof systems, proof mining, formalization of aspects of physics in theorem provers, and tropical quantifier elimination with real implications. The group conducts cutting-edge research at the intersection of logic, proof theory, and theoretical computer science. Early applications are encouraged, as positions may close before the deadline once suitable candidates are found.</description>
+    <where>University of Bath, United Kingdom</where>
+    <when>2025-10-14</when>
+    <link>https://www.bath.ac.uk/teams/mathematical-foundations-of-computation-group-members/</link>
+    <deadline>2026-03-31</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Positions in Foundations of Computer Science</title>
+    <number>5-10</number>
+    <type>Postdoc</type>
+    <description>IRIF (Institute for Research in Foundations of Computer Science), a joint laboratory of CNRS and Université Paris Cité in Paris, France, invites applications for postdoctoral positions in all areas of the Foundations of Computer Science. Each year, 5-10 postdoctoral researchers join IRIF, which hosts around 90 permanent faculty members, 40 non-permanent researchers, and 50 PhD students. The research areas span the full breadth of theoretical computer science. Positions are funded through laboratory resources, research group grants, or external funding obtained jointly with IRIF members. Applicants must hold a PhD in Computer Science or a related discipline by the start date. Knowledge of French is not required. Positions typically begin in September or October. Applications can be submitted in English or French.</description>
+    <where>IRIF (CNRS &amp; Université Paris Cité), Paris, France</where>
+    <when>2025-10-10</when>
+    <link>https://www.irif.fr/postes/postdoc</link>
+    <deadline>2025-11-02</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Positions in Algorithms and Complexity (Classical and Quantum Computing)</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The Algorithms &amp; Complexity group at IRIF (CNRS and Université Paris Cité) in Paris, France, invites applications for one or more postdoctoral positions in classical and quantum computing. Research topics include, but are not limited to, algorithms, streaming algorithms, approximation and online algorithms, distributed algorithms, communication and query complexity, cryptography (including post-quantum), computational game theory, quantum algorithms, quantum communication, computational applications of logic, and randomness in computing. The group offers a vibrant environment for research in theoretical computer science. Positions typically start between September and October 2026, with flexibility. Funding may come from group resources or external grants. Applicants should submit a CV with a list of publications, a research summary, and contact details of at least three references. More details are available on the IRIF website.</description>
+    <where>IRIF (CNRS &amp; Université Paris Cité), Paris, France</where>
+    <when>2025-10-07</when>
+    <link>https://www.irif.fr/en/postes/postdoc</link>
+    <deadline>2025-11-02</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Position in Combinatorial Optimization (Proof Logging / Explanations)</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>KU Leuven invites applications for a postdoctoral position in the field of combinatorial optimization, within Bart Bogaerts' research group on Knowledge Representation and Combinatorial Optimization (DTAI section, Department of Computer Science). The position is part of the CertiFOX project, which focuses on proof logging and explanations for combinatorial optimization, aiming to ensure complete correctness of solver results. The successful candidate will contribute to advancing proof logging methodologies, explore links between proofs and explanations, and may mentor PhD and MSc students. Candidates must hold a PhD in Computer Science or a related field, possess expertise in combinatorial optimization algorithms (e.g., SAT, MaxSAT, ASP, MIP), and be proficient in English. The position is initially for 12 months, renewable for up to 2-3 years, starting early 2026 (negotiable), with a competitive salary and travel budget.</description>
+    <where>KU Leuven, Department of Computer Science</where>
+    <when>2025-10-07</when>
+    <link>https://www.kuleuven.be/personeel/jobsite/jobs/60827142</link>
+    <deadline>2025-10-31</deadline>
+</POST>
+
+<POST>
     <title>Associate Professor in Mathematical Logic (SSD MAT-01/A)</title>
     <number>1</number>
     <type>Tenure/Permanent</type>
