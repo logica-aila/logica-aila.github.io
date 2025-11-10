@@ -19,6 +19,28 @@
 -->
 
 <POST>
+    <title>Lecturer Positions in Cybersecurity</title>
+    <number>2</number>
+    <type>Tenure/Permanent</type>
+    <description>The Department of Computer Science at the University of Bath is seeking to appoint two lecturers in cybersecurity, who will join the Mathematical Foundations of Computation group. The department is particularly looking for individuals with research interests around fundamental aspects of cybersecurity, including but not limited to post-quantum cryptography, formal methods and verification, complexity, logical systems and type theory.</description>
+    <where>University of Bath, Department of Computer Science, United Kingdom</where>
+    <when>2025-11-11</when>
+    <link>https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=AP13145</link>
+    <deadline>2025-12-10</deadline>
+</POST>
+
+<POST>
+    <title>PhD Position: A Foundational Theory of Information Based on Inference</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>UCL invites applications for a PhD studentship on 'A Foundational Theory of Information Based on Inference', jointly supervised by Professor Tim Button (Philosophy) and Professor David Pym (Computer Science). The project aims to develop an inferentialist semantic theory of information through three components: (1) conceptual analysis replacing truth with inferability in accounts of information; (2) developing proof-theoretic semantics (P-tS) for a logical theory of information, introducing the 'inferon' as a primitive unit; and (3) applying P-tS tools to distributed systems modelling for a reasoning-based theory of information flow. Applicants should hold or be near completion of a strong Master's degree in philosophy, mathematics, or computer science, with a strong background in logic. Both UK and international candidates are eligible.</description>
+    <where>University College London (UCL), Departments of Philosophy and Computer Science</where>
+    <when>2025-11-11</when>
+    <link>https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1693.html</link>
+    <deadline>2026-01-05</deadline>
+</POST>
+
+<POST>
     <title>Postdoctoral Fellowship in Topology and Representation Theory</title>
     <number>1</number>
     <type>Postdoc</type>
