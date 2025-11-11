@@ -19,6 +19,39 @@
 -->
 
 <POST>
+    <title>Postdoctoral Positions in Formal Methods and Programming Languages</title>
+    <number>Multiple</number>
+    <type>Postdoc</type>
+    <description>The Centre for Formal Methods and Future Computing (FORM) at the University of Southern Denmark invites applications for postdoctoral fellowships in formal methods and programming languages, with emphasis on theorem proving. Positions can have a duration of up to 4 years. FORM is a new initiative aiming to lead the formalization of key computing areas through proof assistants, particularly the Computer Science Library (CSlib) in Lean. Candidates should hold or be near completion of a PhD in Computer Science or Mathematics, have a research track record at a high international level, and experience with mechanizing theory and/or practice of computer science in proof assistants. The positions are embedded in the Section of Artificial Intelligence, Cybersecurity, and Programming Languages (ACP), which covers areas including symbolic AI, formal methods, logic, theorem provers, type systems, choreographic programming, distributed computing, and quantum programming languages. Fluency in English is required.</description>
+    <where>University of Southern Denmark (SDU), Campus Odense or Vejle, Denmark</where>
+    <when>2025-11-11</when>
+    <link>https://www.sdu.dk/en/vejle</link>
+    <deadline>2026-01-11</deadline>
+</POST>
+
+<POST>
+    <title>Assistant Professor (tenure-track) and Associate Professor (tenured) Positions in Formal Methods</title>
+    <number>Multiple</number>
+    <type>Tenure/Permanent</type>
+    <description>The Centre for Formal Methods and Future Computing (FORM) at the University of Southern Denmark invites applications for tenure-track Assistant Professor and tenured Associate Professor positions in Computer Science, with emphasis on formal methods and theorem proving. FORM is a new initiative aiming to lead the formalization of key computing areas through proof assistants, particularly the Computer Science Library (CSlib) in Lean. Candidates should hold a PhD in computer science or mathematics, have a strong research track record at a high international level, experience in attracting and managing externally funded projects, and the ability to teach and advise students at all levels. Tenure-track assistant professors will receive a guaranteed assessment for tenured associate professor position before the end of the sixth year. The positions are embedded in the Section of Artificial Intelligence, Cybersecurity, and Programming Languages (ACP), which covers areas including symbolic AI, formal methods, logic, theorem provers, type systems, choreographic programming, distributed computing, and quantum programming languages. Fluency in English is required; knowledge of Danish is not necessary.</description>
+    <where>University of Southern Denmark (SDU), Campus Odense or Vejle, Denmark</where>
+    <when>2025-11-11</when>
+    <link>https://www.sdu.dk/en/vejle</link>
+    <deadline>2026-01-11</deadline>
+</POST>
+
+<POST>
+    <title>Fixed-Term Research Position in Computational Models of Deliberative Democracy</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>The Institute for Computational Linguistics (ILC) of the National Research Council of Italy (CNR) invites applications for a fixed-term research position as part of the Horizon Europe RIA Project "Participatory Democracy That Scales (PERYCLES)", within Work Package 4: Deliberation Quality. The position focuses on studying the impact of different deliberative frameworks on the quality of debate and collective decisions through multi-agent computational models (ABMs). Research involves simulating deliberative scenarios, integrating empirical data, and developing formal models of democratic deliberation. Candidates should have expertise in computational and formal methods (multi-agent systems, ABM platforms such as NetLogo, Mesa, Python, Java), formal theories of collective decision-making (social choice theory, voting theory), political theory (deliberative democracy), and/or argumentation and formal reasoning. The scientific coordinator is Prof. Davide Grossi (University of Groningen), with local scientific responsibility under Dr. Carlo Proietti (Senior Researcher, CNR-ILC).</description>
+    <where>Institute for Computational Linguistics (ILC), National Research Council of Italy (CNR), Pisa, Italy</where>
+    <when>2025-11-28</when>
+    <link>https://selezionionline.cnr.it/jconon/call-detail?callCode=331.1%20RIC%20ILC</link>
+    <deadline>2025-11-28</deadline>
+</POST>
+
+<POST>
     <title>Lecturer Positions in Cybersecurity</title>
     <number>2</number>
     <type>Tenure/Permanent</type>
