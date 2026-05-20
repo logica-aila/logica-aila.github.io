@@ -19,6 +19,28 @@
 -->
 
 <POST>
+    <title>Postdoctoral Position in Automata Theory - LIS, Aix-Marseille University</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>Open one-year postdoctoral position in automata theory with Karoliina Lehtinen at LIS, Aix-Marseille University (Marseille), funded by the ANR project QuaSy. Research topics include history-determinism, quantitative automata, and synthesis, with flexibility to adapt to the candidate's interests. The successful candidate will join the MoVe team (games, automata, logic, verification, and related topics). Starting date is flexible between September 2026 and March 2027. The ideal candidate has a PhD in computer science, mathematics, or a closely related field, with a solid background in foundations of computer science. Working language can be English or French, and fluency in English is expected. Applications should be sent as a single PDF including CV, publication record (with links to one or two highlighted papers), cover letter, thesis link/reviews if applicable, and two reference contacts. Deadline for applications is May 31 (2026) or until the position is filled.</description>
+    <where>LIS, Aix-Marseille University, Marseille, France</where>
+    <when>2026-05-20</when>
+    <link>mailto:lehtinen@lis-lab.fr</link>
+    <deadline>2026-06-30</deadline>
+</POST>
+
+<POST>
+    <title>PhD Program in Mathematics at the University of Torino</title>
+    <number>9 (with scholarship; 1 reserved for candidates with a foreign master degree)</number>
+    <type>PhD</type>
+    <description>Open call for positions in the PhD program in Mathematics at the University of Torino. There are 9 funded positions, including one reserved for candidates with a foreign master degree. While no position is specifically reserved for logic, there are good chances that at least one position may be assigned to a student interested in logic. Torino hosts one of the leading logic groups in Italy, active in Set Theory, Descriptive Set Theory, Model Theory, and related areas. Interviews will take place between the end of June and the first half of July and can be carried out online. Results are expected in the second half of July; admitted candidates have 7 days to accept. Candidates must obtain their Master degree by October 31, 2026. The PhD program starts on November 1, 2026.</description>
+    <where>University of Torino, Italy</where>
+    <when>2026-05-19</when>
+    <link>https://www.dottorato.unito.it/do/home.pl/View?doc=Bando_XLII_ciclo.html</link>
+    <deadline>2026-06-09</deadline>
+</POST>
+
+<POST>
     <title>PhD Position in Coalgebra / Algebra / Semantics / Formal Methods / Probabilistic Systems in Salzburg</title>
     <number>1</number>
     <type>PhD</type>
@@ -846,6 +868,7 @@
 
 <POST>
     <title>Visiting Assistant Professor at the University of Denver</title>
+    <number>1</number>
     <type>Postdoc</type>
     <description>The Department of Mathematics at the University of Denver invites applications for three Visiting Assistant Professor positions in mathematics to begin on Sept 1, 2025. These are non-tenure-track positions that may be renewed for a maximum of three years. 
     </description>
@@ -856,6 +879,7 @@
 
 <POST>
     <title>Fully-Funded PhD Studentships in Programming Languages and Systems</title>
+    <number>1</number>
     <type>PhD</type>
     <description>The Programming Languages and Systems (PLAS) group at the University of Kent invites applications for 3.5-year fully-funded PhD scholarships, available for both UK and international students. Topics span from concurrency, formal verification, and cost analysis to programming language theory and type systems. Scholars also benefit from teacher training and diverse housing options on a scenic campus near Canterbury. Applications are due 15 February 2025.</description>
     <where>University of Kent, Canterbury, UK</where>
@@ -865,6 +889,7 @@
 
 <POST>
     <title>PhD Position in Knowledge Representation and Reasoning</title>
+    <number>1</number>
     <type>PhD</type>
     <description>The Individual and Collective Reasoning Group (ICR), led by Prof. Leon van der Torre, at the University of Luxembourg, is seeking a PhD candidate in Knowledge Representation and Reasoning. Areas of interest include formal argumentation, deontic logic, normative multiagent systems, and integration of non-symbolic and symbolic techniques. Applicants should refer to the chapter "Thirteen Challenges of Formal and Computational Argumentation" from the Handbook of Formal Argumentation (available online) to prepare their research proposal.</description>
     <where>University of Luxembourg, Belval Campus</where>
