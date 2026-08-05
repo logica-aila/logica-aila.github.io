@@ -18,6 +18,16 @@
     Add new post right below here.
 -->
 
+<POST>
+    <title>PhD in Computational Semantic Representations: A Multilingual Language Change Study - Utrecht University</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>Utrecht University's Department of Methodology &amp; Statistics invites applications for a four-year, fully funded PhD position on computational models of semantic change and synonymy evolution across multilingual historical corpora. The project investigates semantic relationships across time, interpretability of semantic change models, and generalization across languages and domains. Research will use contextualized word embeddings and LLMs to track semantic trajectories, hierarchical clustering to identify polysemous senses, and English (COCA/COHA), Dutch (Delpher), and Spanish (RAE) data. A key deliverable is an open-source pipeline for the language-change research community. Supervisors: Pablo Mosteiro, Robert Bagheri, and Denis Paperno. Applicants should hold a research master's degree in AI, computational linguistics, NLP, computer science, data science, or a related field, with solid Python and machine learning or NLP experience. Experience with transformer-based models and embeddings is desirable. The preferred start date is 1 October 2026.</description>
+    <where>Department of Methodology &amp; Statistics, Faculty of Social and Behavioural Sciences, Utrecht University, Netherlands</where>
+    <when>2026-08-05</when>
+    <link>https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-computational-semantic-representations-a-multilingual-language-change-study</link>
+    <deadline>2026-08-23</deadline>
+</POST>
 
 <POST>
     <title>RTT (Tenure Track) Researcher Position in Mathematical Logic - University of Pisa</title>
