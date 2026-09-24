@@ -16,7 +16,30 @@
 
     Do not remove previous posts.
     Add new post right below here.
+    Check no conflict with JS parsing of the XML file (e.g., no unescaped "&" in the text, no "<" or ">" in the text, etc.)
 -->
+
+<POST>
+    <title>PhD Scholarship in Mathematical/Computational Logic - University of Queensland</title>
+    <number>1</number>
+    <type>PhD</type>
+    <description>A PhD scholarship in mathematical/computational logic is available at the University of Queensland (Australia) as part of the Australian Research Council Future Fellowship "Logics for Quantitative Reasoning" awarded to Guillermo Badia. The successful candidate will be co-supervised jointly with Carles Noguera (University of Siena) and Val Tannen (University of Pennsylvania). The research topic will be in the area of logics with semiring semantics and databases. The candidate should start in the second half of 2027. The living stipend will be $39,220 per annum tax free (2026 rate), indexed annually, with Single Overseas Student Health Cover (OSHC). The duration is 3.5 years with the possibility of a 6 months extension. Interested candidates with a mathematics/computer science background should contact Guillermo Badia at g.badia@uq.edu.au with a copy of their CV. No fixed application deadline was specified; applications are considered until the position is filled.</description>
+    <where>University of Queensland, Brisbane, Australia</where>
+    <when>2026-09-23</when>
+    <link>mailto:g.badia@uq.edu.au</link>
+    <deadline>2027-06-30</deadline>
+</POST>
+
+<POST>
+    <title>Postdoctoral Researcher in Type Theory for Dynamic Languages - IRIF, Universite Paris Cite</title>
+    <number>1</number>
+    <type>Postdoc</type>
+    <description>IRIF invites applications for a 12-month postdoctoral position, with a possible extension of a few months, on gradual and semantic typing for Elixir's module system. The project extends the semantic-subtyping-based type system in the official Elixir compiler to cover its first-class module system, treating modules and values within a unified type-theoretic framework. Research will address gradual typing for modules and the integration of existential types into semantic subtyping, alongside implementation of a prototype and progressive integration into Elixir releases. The postdoctoral researcher will work at IRIF under the supervision of Giuseppe Castagna, in close collaboration with Guillaume Duboc, Jose Valim, and the Elixir core team. The expected start date is 1 November 2026, negotiable only to a later date. Applicants must hold a PhD in computer science or a related field by the start date and have a strong background in functional languages, type systems, and English. Applications through the CNRS portal must include a CV with publication list and a motivation letter; candidates are strongly encouraged to contact Giuseppe Castagna before applying.</description>
+    <where>Institut de Recherche en Informatique Fondamentale (IRIF), Universite Paris Cite, Paris, France</where>
+    <when>2026-09-14</when>
+    <link>https://www.irif.fr/~gc/postdocElixirModules.en.html</link>
+    <deadline>2026-10-03</deadline>
+</POST>
 
 <POST>
     <title>Assistant Professor in Machine Learning for Formal Reasoning and Verification - University of Amsterdam</title>
